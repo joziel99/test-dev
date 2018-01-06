@@ -4,5 +4,12 @@
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
 
-    # RewriteRule
+    RewriteRule ^api api.php
 </IfModule>
+
+php_flag display_startup_errors on
+php_flag display_errors on
+php_flag html_errors on
+php_flag  log_errors on
+php_value error_log  PHP_errors.log
+php_value memory_limit 256M

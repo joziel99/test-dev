@@ -1,0 +1,253 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    max-width: 900px;
+    display: block;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header{
+    max-width: 500px;
+    display: table;
+    margin: 20px auto;
+}
+
+header .logo img{
+    max-width: 100%;
+    display: table;
+    margin: 0 auto;
+}
+
+header .logo h2{
+    float: right;
+    color: #1F5DA5;
+    font-size: 2em;
+    margin: 0;
+    font-weight: bolder;
+}
+header .logo h2 em{
+    color: #1F5DA5;
+    font-size: .5em;
+}
+
+.car-table .table-inner{
+    width: 100%;
+    overflow: auto;
+}
+
+.car-table .slide_help{
+    width: 100%;
+    text-align: center;
+    color: #888888;
+    font-style: italic;
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .car-table .slide_help{
+        display: inline-block;
+    }
+}
+
+.car-table .slide_help i{
+    font-size: 1.5em;
+    vertical-align: middle;
+}
+.car-table{
+    width: 100%;
+    border: 1px solid #EEEEEE;
+    background: #FEFEFE;
+    border-radius: 10px;
+    padding: 15px;
+    display: inline-block;
+    margin-bottom: 50px;
+    box-shadow: 3px 3px 7px 2px rgba(0,0,0,0.5);
+}
+
+.car-table .no-fields{
+    width: 100%;
+    border-radius: 10px;
+    background: #AAAAAA;
+    color: #F5F5F5;
+    padding: 10px 20px;
+}
+
+.car-table .functions{
+    display: inline-block;
+    width: 100%;
+}
+
+.car-table table{
+    width: 100%;
+    margin: 20px 0;
+}
+
+.car-table table th{
+    border-bottom: 1px solid #1F5DA5;
+}
+
+.car-table table td em{
+    color: #AAAAAA;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+.car-table table td p{
+    margin: 0;
+    line-height: 12px;
+    font-size: 0.9em;
+    white-space: nowrap;
+}
+.car-table table td{
+    text-align: center;
+    padding: 5px 10px;
+    border: 1px solid #DDDDDD;
+}
+
+.button {
+    border: 1px solid #EEEEEE;
+    background: #AAAAAA;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    border-radius: 3px;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+}
+
+.button:before{
+    background: #000000;
+    opacity: 0;
+    content: "";
+    position: absolute;
+    left: 10%;
+    top: 0;
+    width: 80%;
+    height: 100%;
+    transition: .5s ease all;
+    border-radius: 3px;
+}
+
+
+.button:hover:before{
+    opacity: 0.2;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.button.green{
+    border-color: #23a523;
+    background: #4cb74c;
+}
+
+.button.red{
+    border-color: #b52f2f;
+    background: #f54c4c;
+}
+
+.button.blue{
+    border-color: #587da9;
+    background: #6d95c3;
+}
+
+.form-modal, .confirm-modal{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    transition: 0.5s ease all;
+    opacity: 0;
+    display: none;
+}
+
+.form-modal .save[data-save]{
+    opacity: 0.5;
+    cursor: progress;
+}
+
+.form-modal>.form, .confirm-modal>.form{
+    display: table;
+    max-width: 500px;
+    width: 100%;
+    height: 100%;
+    margin: 20px auto;
+    padding: 0 20px;
+    max-height: calc(100vh - 40px);
+}
+
+.confirm-modal>.form>.center,
+.form-modal>.form>.center{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.confirm-modal .inner-form,
+.form-modal .inner-form{
+    padding: 20px;
+    background: #FFFFFF;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 10px;
+    overflow: auto;
+}
+
+.confirm-modal .inner-form .title,
+.form-modal .inner-form .title{
+    font-size: 2em;
+    font-weight: bold;
+    color: #1F5DA5;
+    border-bottom: 1px solid #1F5DA5;
+    margin-bottom: 15px;
+}
+.confirm-modal .inner-form .title{
+    font-size: 1.5em;
+}
+
+
+.confirm-modal .inner-form .field,
+.form-modal .inner-form .field{
+    margin-bottom: 15px;
+}
+
+.form-modal .inner-form .field input,
+.form-modal .inner-form .field select{
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+    height: 35px;
+    border: 1px solid #AAAAAA;
+    text-indent: 15px;
+}
+
+.alert-message-estadao{
+    background: #4cb74c;
+    padding: 8px 18px;
+    border-radius: 8px;
+    z-index: 99999;
+    position: fixed;
+    bottom: 10vh;
+    right: -100%;
+    text-shadow: 1px 1px 1px #000000;
+    color: #FFFFFF;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+    transition: .5s ease all;
+    white-space: nowrap;
+}
+
+.alert-message-estadao.red{
+    background: #f54c4c;
+}
+
+.alert-message-estadao.show{
+    right: 10vw;
+}
+
+.alert-message-estadao.hide{
+    right: 150%;
+}

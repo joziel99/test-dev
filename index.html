@@ -3,23 +3,141 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title></title>
+        <title>Estadão - Joziel Teste</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <!-- Place favicon.ico in the root directory -->
-
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/main.css">
-        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+        <link rel="stylesheet" href="/css/normalize.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/icons/css/icons.css">
     </head>
     <body>
+        <div class="container">
+            <header>
+                <div class="logo">
+                    <img src="/img/logo.png" alt="Logo do Estadão">;
+                    <h2>TEST <em>by Joziel Reis</em></h2>
+                </div>
+            </header>
 
+            <div class="car-table">
+                <div class="functions">
+                    <a href="javascript:void(0)" class="button green" onclick="Site.newCar()" style="float: left"><i class="icon-plus"></i>NOVO CARRO</a>
+                </div>
+                <div class="table-inner">
+                    <table>
+                        <tbody class="list-car-inner">
+                            <tr class="empty" style="display: none">
+                                <td  width="1px" data-name="id">
+                                    <em>ID</em>
+                                    <p></p>
+                                </td>
+                                <td width="15%" data-name="brand">
+                                    <em>Marca</em>
+                                    <p></p>
+                                </td>
+                                <td width="15%" data-name="model">
+                                    <em>Modelo</em>
+                                    <p></p>
+                                </td>
+                                <td width="10%" data-name="year">
+                                    <em>Ano</em>
+                                    <p></p>
+                                </td>
+                                <td width="10%" data-name="color">
+                                    <em>Cor</em>
+                                    <p></p>
+                                </td>
+                                <td width="15%" data-name="plate">
+                                    <em>Placa</em>
+                                    <p></p>
+                                </td>
+                                <td width="30%" data-name="updated">
+                                    <em>Última Atualização</em>
+                                    <p></p>
+                                </td>
+                                <td  width="10%" style="white-space: nowrap">
+                                    <a href="javascript:void(0)" onclick="" class="button blue update"><i class="icon-edit"></i></a>
+                                    <a href="javascript:void(0)" class="button red delete"><i class="icon-cancel"></i></a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.3.min.js"><\/script>')</script>
+                <div class="slide_help">
+                    <i class="icon-left"></i>
+                    Deslize para ver
+                    <i class="icon-right"></i>
+                </div>
+                <div class="no-fields" style="display: none">
+                    <i class="icon-cancel"></i> Nenhum carro cadastrado!
+                </div>
+            </div>
 
-        <script src="js/main.js"></script>
+            <div class="confirm-modal" id="confirm-modal">
+                <div class="form">
+                    <div class="center">
+                        <div class="inner-form" action="" method="">
+                            <div class="title">Você deseja deletar esse carro?</div>
+                            <div class="field">
+                                <a href="javascript:void(0)" class="button green confirm"><i class="icon-ok-circled"></i>Sim</a>
+                                <a href="javascript:void(0)" class="button red cancel" onclick="Site.modalConfirmClose();"><i class="icon-cancel-circled"></i>Não</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-modal" id="form-modal">
+                <div class="form">
+                    <div class="center">
+                        <form class="inner-form" action="" method="">
+                            <input type="hidden" name="id" value="">
+                            <input type="hidden" name="url" value="">
+                            <input type="hidden" name="type" value="">
+
+                            <div class="title">Novo Carro</div>
+                            <div class="field">
+                                <label for="input-marca">*Marca</label>
+                                <select id="input-marca" name="brand" required>
+                                </select>
+                            </div>
+
+                            <div class="field">
+                                <label for="input-modelo">*Modelo</label>
+                                <select id="input-modelo" name="model" required>
+                                </select>
+                            </div>
+
+                            <div class="field">
+                                <label for="input-ano">*Ano</label>
+                                <input id="input-ano" name="year" required type="number" maxlength="4">
+                            </div>
+
+                            <div class="field">
+                                <label for="input-cor">*Cor</label>
+                                <input id="input-cor" name="color" required type="text" maxlength="20">
+                            </div>
+
+                            <div class="field">
+                                <label for="input-placa">*Placa</label>
+                                <input id="input-placa" name="plate" required type="text"  maxlength="10">
+                            </div>
+
+                            <div class="field">
+                                <a href="javascript:void(0)" onclick="Site.save();" class="button green save" style="float: left"><i class="icon-ok-circled"></i>Salvar</a>
+                                <a href="javascript:void(0)" onclick="Site.modalClose();" class="button red" style="float: right"><i class="icon-cancel-circled"></i>Cancelar</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="/js/api.js"></script>
+        <script src="/js/main.js"></script>
+        <script type="text/javascript">
+            Site.updateCarList.init();
+            Site.loadMarcas();
+        </script>
     </body>
 </html>

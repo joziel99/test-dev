@@ -1,148 +1,4938 @@
-{
-  "1": "CHEVROLET",
-  "2": "VOLKSWAGEN",
-  "3": "FIAT",
-  "4": "MERCEDES-BENZ",
-  "5": "CITROEN",
-  "6": "CHANA",
-  "7": "HONDA",
-  "8": "SUBARU",
-  "10": "FERRARI",
-  "11": "BUGATTI",
-  "12": "LAMBORGHINI",
-  "13": "FORD",
-  "14": "HYUNDAI",
-  "15": "JAC",
-  "16": "KIA",
-  "17": "GURGEL",
-  "18": "DODGE",
-  "19": "CHRYSLER",
-  "20": "BENTLEY",
-  "21": "SSANGYONG",
-  "22": "PEUGEOT",
-  "23": "TOYOTA",
-  "24": "RENAULT",
-  "25": "ACURA",
-  "26": "ADAMO",
-  "27": "AGRALE",
-  "28": "ALFA ROMEO",
-  "29": "AMERICAR",
-  "31": "ASTON MARTIN",
-  "32": "AUDI",
-  "34": "BEACH",
-  "35": "BIANCO",
-  "36": "BMW",
-  "37": "BORGWARD",
-  "38": "BRILLIANCE",
-  "41": "BUICK",
-  "42": "CBT",
-  "43": "NISSAN",
-  "44": "CHAMONIX",
-  "46": "CHEDA",
-  "47": "CHERY",
-  "48": "CORD",
-  "49": "COYOTE",
-  "50": "CROSS LANDER",
-  "51": "DAEWOO",
-  "52": "DAIHATSU",
-  "53": "VOLVO",
-  "54": "DE SOTO",
-  "55": "DETOMAZO",
-  "56": "DELOREAN",
-  "57": "DKW-VEMAG",
-  "59": "SUZUKI",
-  "60": "EAGLE",
-  "61": "EFFA",
-  "63": "ENGESA",
-  "64": "ENVEMO",
-  "65": "FARUS",
-  "66": "FERCAR",
-  "68": "FNM",
-  "69": "PONTIAC",
-  "70": "PORSCHE",
-  "72": "GEO",
-  "74": "GRANCAR",
-  "75": "GREAT WALL",
-  "76": "HAFEI",
-  "78": "HOFSTETTER",
-  "79": "HUDSON",
-  "80": "HUMMER",
-  "82": "INFINITI",
-  "83": "INTERNATIONAL",
-  "86": "JAGUAR",
-  "87": "JEEP",
-  "88": "JINBEI",
-  "89": "JPX",
-  "90": "KAISER",
-  "91": "KOENIGSEGG",
-  "92": "LAUTOMOBILE",
-  "93": "LAUTOCRAFT",
-  "94": "LADA",
-  "95": "LANCIA",
-  "96": "LAND ROVER",
-  "97": "LEXUS",
-  "98": "LIFAN",
-  "99": "LINCOLN",
-  "100": "LOBINI",
-  "101": "LOTUS",
-  "102": "MAHINDRA",
-  "104": "MASERATI",
-  "106": "MATRA",
-  "107": "MAYBACH",
-  "108": "MAZDA",
-  "109": "MENON",
-  "110": "MERCURY",
-  "111": "MITSUBISHI",
-  "112": "MG",
-  "113": "MINI",
-  "114": "MIURA",
-  "115": "MORRIS",
-  "116": "MP LAFER",
-  "117": "MPLM",
-  "118": "NEWTRACK",
-  "119": "NISSIN",
-  "120": "OLDSMOBILE",
-  "121": "PAG",
-  "122": "PAGANI",
-  "123": "PLYMOUTH",
-  "124": "PUMA",
-  "125": "RENO",
-  "126": "REVA-I",
-  "127": "ROLLS-ROYCE",
-  "129": "ROMI",
-  "130": "SEAT",
-  "131": "UTILITARIOS AGRICOLAS",
-  "132": "SHINERAY",
-  "137": "SAAB",
-  "139": "SHORT",
-  "141": "SIMCA",
-  "142": "SMART",
-  "143": "SPYKER",
-  "144": "STANDARD",
-  "145": "STUDEBAKER",
-  "146": "TAC",
-  "147": "TANGER",
-  "148": "TRIUMPH",
-  "149": "TROLLER",
-  "150": "UNIMOG",
-  "154": "WIESMANN",
-  "155": "CADILLAC",
-  "156": "AM GEN",
-  "157": "BUGGY",
-  "158": "WILLYS OVERLAND",
-  "161": "KASEA",
-  "162": "SATURN",
-  "163": "SWELL MINI",
-  "175": "SKODA",
-  "239": "KARMANN GHIA",
-  "254": "KART",
-  "258": "HANOMAG",
-  "265": "HILLMAN",
-  "288": "HRG",
-  "295": "GAIOLA",
-  "338": "TATA",
-  "341": "DITALLY",
-  "345": "RELY",
-  "346": "MCLAREN",
-  "534": "GEELY"
-}
+[
+  {
+    "id_marca": "25",
+    "name": "INTEGRA"
+  },
+  {
+    "id_marca": "25",
+    "name": "LEGEND"
+  },
+  {
+    "id_marca": "25",
+    "name": "NSX"
+  },
+  {
+    "id_marca": "27",
+    "name": "MARRUA"
+  },
+  {
+    "id_marca": "28",
+    "name": "145"
+  },
+  {
+    "id_marca": "28",
+    "name": "147"
+  },
+  {
+    "id_marca": "28",
+    "name": "155"
+  },
+  {
+    "id_marca": "28",
+    "name": "156"
+  },
+  {
+    "id_marca": "28",
+    "name": "164"
+  },
+  {
+    "id_marca": "28",
+    "name": "166"
+  },
+  {
+    "id_marca": "28",
+    "name": "2300"
+  },
+  {
+    "id_marca": "28",
+    "name": "SPIDER"
+  },
+  {
+    "id_marca": "156",
+    "name": "HUMMER"
+  },
+  {
+    "id_marca": "16",
+    "name": "AM-825"
+  },
+  {
+    "id_marca": "16",
+    "name": "HI-TOPIC"
+  },
+  {
+    "id_marca": "16",
+    "name": "ROCSTA"
+  },
+  {
+    "id_marca": "16",
+    "name": "TOPIC"
+  },
+  {
+    "id_marca": "16",
+    "name": "TOWNER"
+  },
+  {
+    "id_marca": "32",
+    "name": "100"
+  },
+  {
+    "id_marca": "32",
+    "name": "80"
+  },
+  {
+    "id_marca": "32",
+    "name": "A1"
+  },
+  {
+    "id_marca": "32",
+    "name": "A3"
+  },
+  {
+    "id_marca": "32",
+    "name": "A4 SEDAN"
+  },
+  {
+    "id_marca": "32",
+    "name": "A5 COUPE"
+  },
+  {
+    "id_marca": "32",
+    "name": "A6 SEDAN"
+  },
+  {
+    "id_marca": "32",
+    "name": "A7"
+  },
+  {
+    "id_marca": "32",
+    "name": "A8"
+  },
+  {
+    "id_marca": "32",
+    "name": "Q3"
+  },
+  {
+    "id_marca": "32",
+    "name": "Q5"
+  },
+  {
+    "id_marca": "32",
+    "name": "Q7"
+  },
+  {
+    "id_marca": "32",
+    "name": "R8"
+  },
+  {
+    "id_marca": "32",
+    "name": "RS3"
+  },
+  {
+    "id_marca": "32",
+    "name": "RS4"
+  },
+  {
+    "id_marca": "32",
+    "name": "RS5"
+  },
+  {
+    "id_marca": "32",
+    "name": "RS6"
+  },
+  {
+    "id_marca": "32",
+    "name": "S3"
+  },
+  {
+    "id_marca": "32",
+    "name": "S4 SEDAN"
+  },
+  {
+    "id_marca": "32",
+    "name": "S6 SEDAN"
+  },
+  {
+    "id_marca": "32",
+    "name": "S8"
+  },
+  {
+    "id_marca": "32",
+    "name": "TT"
+  },
+  {
+    "id_marca": "32",
+    "name": "TTS"
+  },
+  {
+    "id_marca": "157",
+    "name": "BUGGY"
+  },
+  {
+    "id_marca": "155",
+    "name": "DEVILLE"
+  },
+  {
+    "id_marca": "155",
+    "name": "ELDORADO"
+  },
+  {
+    "id_marca": "155",
+    "name": "SEVILLE"
+  },
+  {
+    "id_marca": "42",
+    "name": "JAVALI"
+  },
+  {
+    "id_marca": "6",
+    "name": "MINI STAR FAMILY"
+  },
+  {
+    "id_marca": "6",
+    "name": "MINI STAR UTILITY"
+  },
+  {
+    "id_marca": "47",
+    "name": "CIELO"
+  },
+  {
+    "id_marca": "47",
+    "name": "FACE"
+  },
+  {
+    "id_marca": "47",
+    "name": "QQ"
+  },
+  {
+    "id_marca": "47",
+    "name": "S-18"
+  },
+  {
+    "id_marca": "47",
+    "name": "TIGGO"
+  },
+  {
+    "id_marca": "19",
+    "name": "300C"
+  },
+  {
+    "id_marca": "19",
+    "name": "CARAVAN"
+  },
+  {
+    "id_marca": "19",
+    "name": "CIRRUS"
+  },
+  {
+    "id_marca": "19",
+    "name": "GRAN CARAVAN"
+  },
+  {
+    "id_marca": "19",
+    "name": "LE BARON"
+  },
+  {
+    "id_marca": "19",
+    "name": "NEON"
+  },
+  {
+    "id_marca": "19",
+    "name": "PT CRUISER"
+  },
+  {
+    "id_marca": "19",
+    "name": "SEBRING"
+  },
+  {
+    "id_marca": "19",
+    "name": "STRATUS"
+  },
+  {
+    "id_marca": "19",
+    "name": "TOWN E COUNTRY"
+  },
+  {
+    "id_marca": "19",
+    "name": "VISION"
+  },
+  {
+    "id_marca": "5",
+    "name": "AIRCROSS"
+  },
+  {
+    "id_marca": "5",
+    "name": "AX"
+  },
+  {
+    "id_marca": "5",
+    "name": "BERLINGO"
+  },
+  {
+    "id_marca": "5",
+    "name": "BX"
+  },
+  {
+    "id_marca": "5",
+    "name": "C3"
+  },
+  {
+    "id_marca": "5",
+    "name": "C4"
+  },
+  {
+    "id_marca": "5",
+    "name": "C5"
+  },
+  {
+    "id_marca": "5",
+    "name": "C6"
+  },
+  {
+    "id_marca": "5",
+    "name": "C8"
+  },
+  {
+    "id_marca": "5",
+    "name": "DS3"
+  },
+  {
+    "id_marca": "5",
+    "name": "EVASION"
+  },
+  {
+    "id_marca": "5",
+    "name": "JUMPER"
+  },
+  {
+    "id_marca": "5",
+    "name": "XANTIA"
+  },
+  {
+    "id_marca": "5",
+    "name": "XM"
+  },
+  {
+    "id_marca": "5",
+    "name": "XSARA"
+  },
+  {
+    "id_marca": "5",
+    "name": "ZX"
+  },
+  {
+    "id_marca": "50",
+    "name": "CL-244"
+  },
+  {
+    "id_marca": "50",
+    "name": "CL-330"
+  },
+  {
+    "id_marca": "51",
+    "name": "ESPERO"
+  },
+  {
+    "id_marca": "51",
+    "name": "LANOS"
+  },
+  {
+    "id_marca": "51",
+    "name": "LEGANZA"
+  },
+  {
+    "id_marca": "51",
+    "name": "NUBIRA"
+  },
+  {
+    "id_marca": "51",
+    "name": "PRINCE"
+  },
+  {
+    "id_marca": "51",
+    "name": "RACER"
+  },
+  {
+    "id_marca": "51",
+    "name": "SUPER SALON"
+  },
+  {
+    "id_marca": "51",
+    "name": "TICO"
+  },
+  {
+    "id_marca": "52",
+    "name": "APPLAUSE"
+  },
+  {
+    "id_marca": "52",
+    "name": "CHARADE"
+  },
+  {
+    "id_marca": "52",
+    "name": "CUORE"
+  },
+  {
+    "id_marca": "52",
+    "name": "FEROZA"
+  },
+  {
+    "id_marca": "52",
+    "name": "GRAN MOVE"
+  },
+  {
+    "id_marca": "52",
+    "name": "MOVE VAN"
+  },
+  {
+    "id_marca": "52",
+    "name": "TERIOS"
+  },
+  {
+    "id_marca": "18",
+    "name": "AVENGER"
+  },
+  {
+    "id_marca": "18",
+    "name": "DAKOTA"
+  },
+  {
+    "id_marca": "18",
+    "name": "JOURNEY"
+  },
+  {
+    "id_marca": "18",
+    "name": "RAM"
+  },
+  {
+    "id_marca": "18",
+    "name": "STEALTH"
+  },
+  {
+    "id_marca": "61",
+    "name": "M-100"
+  },
+  {
+    "id_marca": "61",
+    "name": "PLUTUS"
+  },
+  {
+    "id_marca": "61",
+    "name": "START"
+  },
+  {
+    "id_marca": "61",
+    "name": "ULC"
+  },
+  {
+    "id_marca": "63",
+    "name": "ENGESA"
+  },
+  {
+    "id_marca": "64",
+    "name": "CAMPER"
+  },
+  {
+    "id_marca": "64",
+    "name": "MASTER"
+  },
+  {
+    "id_marca": "10",
+    "name": "348"
+  },
+  {
+    "id_marca": "10",
+    "name": "355"
+  },
+  {
+    "id_marca": "10",
+    "name": "360"
+  },
+  {
+    "id_marca": "10",
+    "name": "456"
+  },
+  {
+    "id_marca": "10",
+    "name": "550"
+  },
+  {
+    "id_marca": "10",
+    "name": "575M"
+  },
+  {
+    "id_marca": "10",
+    "name": "612"
+  },
+  {
+    "id_marca": "10",
+    "name": "CALIFORNIA"
+  },
+  {
+    "id_marca": "10",
+    "name": "F430"
+  },
+  {
+    "id_marca": "10",
+    "name": "F599"
+  },
+  {
+    "id_marca": "3",
+    "name": "147"
+  },
+  {
+    "id_marca": "3",
+    "name": "500"
+  },
+  {
+    "id_marca": "3",
+    "name": "BRAVA"
+  },
+  {
+    "id_marca": "3",
+    "name": "BRAVO"
+  },
+  {
+    "id_marca": "3",
+    "name": "COUPE"
+  },
+  {
+    "id_marca": "3",
+    "name": "DOBLO"
+  },
+  {
+    "id_marca": "3",
+    "name": "DUCATO CARGO"
+  },
+  {
+    "id_marca": "3",
+    "name": "DUNA"
+  },
+  {
+    "id_marca": "3",
+    "name": "ELBA"
+  },
+  {
+    "id_marca": "3",
+    "name": "FIORINO"
+  },
+  {
+    "id_marca": "3",
+    "name": "FREEMONT"
+  },
+  {
+    "id_marca": "3",
+    "name": "GRAND SIENA"
+  },
+  {
+    "id_marca": "3",
+    "name": "IDEA"
+  },
+  {
+    "id_marca": "3",
+    "name": "LINEA"
+  },
+  {
+    "id_marca": "3",
+    "name": "MAREA"
+  },
+  {
+    "id_marca": "3",
+    "name": "OGGI"
+  },
+  {
+    "id_marca": "3",
+    "name": "PALIO"
+  },
+  {
+    "id_marca": "3",
+    "name": "PANORAMA"
+  },
+  {
+    "id_marca": "3",
+    "name": "PREMIO"
+  },
+  {
+    "id_marca": "3",
+    "name": "PUNTO"
+  },
+  {
+    "id_marca": "3",
+    "name": "SIENA"
+  },
+  {
+    "id_marca": "3",
+    "name": "STILO"
+  },
+  {
+    "id_marca": "3",
+    "name": "STRADA"
+  },
+  {
+    "id_marca": "3",
+    "name": "TEMPRA"
+  },
+  {
+    "id_marca": "3",
+    "name": "TIPO"
+  },
+  {
+    "id_marca": "3",
+    "name": "UNO"
+  },
+  {
+    "id_marca": "13",
+    "name": "AEROSTAR"
+  },
+  {
+    "id_marca": "13",
+    "name": "ASPIRE"
+  },
+  {
+    "id_marca": "13",
+    "name": "BELINA"
+  },
+  {
+    "id_marca": "13",
+    "name": "CLUB WAGON"
+  },
+  {
+    "id_marca": "13",
+    "name": "CONTOUR"
+  },
+  {
+    "id_marca": "13",
+    "name": "CORCEL II"
+  },
+  {
+    "id_marca": "13",
+    "name": "COURIER"
+  },
+  {
+    "id_marca": "13",
+    "name": "CROWN VICTORIA"
+  },
+  {
+    "id_marca": "13",
+    "name": "DEL REY"
+  },
+  {
+    "id_marca": "13",
+    "name": "ECOSPORT"
+  },
+  {
+    "id_marca": "13",
+    "name": "EDGE"
+  },
+  {
+    "id_marca": "13",
+    "name": "ESCORT"
+  },
+  {
+    "id_marca": "13",
+    "name": "EXPEDITION"
+  },
+  {
+    "id_marca": "13",
+    "name": "EXPLORER"
+  },
+  {
+    "id_marca": "13",
+    "name": "F-100"
+  },
+  {
+    "id_marca": "13",
+    "name": "F-1000"
+  },
+  {
+    "id_marca": "13",
+    "name": "F-150"
+  },
+  {
+    "id_marca": "13",
+    "name": "F-250"
+  },
+  {
+    "id_marca": "13",
+    "name": "FIESTA"
+  },
+  {
+    "id_marca": "13",
+    "name": "FOCUS"
+  },
+  {
+    "id_marca": "13",
+    "name": "FURGLAINE"
+  },
+  {
+    "id_marca": "13",
+    "name": "FUSION"
+  },
+  {
+    "id_marca": "13",
+    "name": "IBIZA"
+  },
+  {
+    "id_marca": "13",
+    "name": "KA"
+  },
+  {
+    "id_marca": "13",
+    "name": "MONDEO"
+  },
+  {
+    "id_marca": "13",
+    "name": "MUSTANG"
+  },
+  {
+    "id_marca": "13",
+    "name": "PAMPA"
+  },
+  {
+    "id_marca": "13",
+    "name": "PROBE"
+  },
+  {
+    "id_marca": "13",
+    "name": "RANGER"
+  },
+  {
+    "id_marca": "13",
+    "name": "VERSAILLES ROYALE"
+  },
+  {
+    "id_marca": "13",
+    "name": "TAURUS"
+  },
+  {
+    "id_marca": "13",
+    "name": "THUNDERBIRD"
+  },
+  {
+    "id_marca": "13",
+    "name": "TRANSIT"
+  },
+  {
+    "id_marca": "13",
+    "name": "VERONA"
+  },
+  {
+    "id_marca": "13",
+    "name": "VERSAILLES"
+  },
+  {
+    "id_marca": "13",
+    "name": "WINDSTAR"
+  },
+  {
+    "id_marca": "1",
+    "name": "A-10"
+  },
+  {
+    "id_marca": "1",
+    "name": "A-20"
+  },
+  {
+    "id_marca": "1",
+    "name": "AGILE"
+  },
+  {
+    "id_marca": "1",
+    "name": "ASTRA"
+  },
+  {
+    "id_marca": "1",
+    "name": "BLAZER"
+  },
+  {
+    "id_marca": "1",
+    "name": "BONANZA"
+  },
+  {
+    "id_marca": "1",
+    "name": "C-10"
+  },
+  {
+    "id_marca": "1",
+    "name": "C-20"
+  },
+  {
+    "id_marca": "1",
+    "name": "CALIBRA"
+  },
+  {
+    "id_marca": "1",
+    "name": "CAMARO"
+  },
+  {
+    "id_marca": "1",
+    "name": "CAPRICE"
+  },
+  {
+    "id_marca": "1",
+    "name": "CAPTIVA"
+  },
+  {
+    "id_marca": "1",
+    "name": "CARAVAN"
+  },
+  {
+    "id_marca": "1",
+    "name": "CAVALIER"
+  },
+  {
+    "id_marca": "1",
+    "name": "CELTA"
+  },
+  {
+    "id_marca": "1",
+    "name": "CHEVY"
+  },
+  {
+    "id_marca": "1",
+    "name": "CHEYNNE"
+  },
+  {
+    "id_marca": "1",
+    "name": "COBALT"
+  },
+  {
+    "id_marca": "1",
+    "name": "CORSA"
+  },
+  {
+    "id_marca": "1",
+    "name": "CORVETTE"
+  },
+  {
+    "id_marca": "1",
+    "name": "CRUZE"
+  },
+  {
+    "id_marca": "1",
+    "name": "D-10"
+  },
+  {
+    "id_marca": "1",
+    "name": "D-20"
+  },
+  {
+    "id_marca": "1",
+    "name": "IPANEMA"
+  },
+  {
+    "id_marca": "1",
+    "name": "KADETT"
+  },
+  {
+    "id_marca": "1",
+    "name": "LUMINA"
+  },
+  {
+    "id_marca": "1",
+    "name": "MALIBU"
+  },
+  {
+    "id_marca": "1",
+    "name": "MERIVA"
+  },
+  {
+    "id_marca": "1",
+    "name": "MONTANA"
+  },
+  {
+    "id_marca": "1",
+    "name": "OMEGA"
+  },
+  {
+    "id_marca": "1",
+    "name": "OPALA"
+  },
+  {
+    "id_marca": "1",
+    "name": "PRISMA"
+  },
+  {
+    "id_marca": "1",
+    "name": "S10"
+  },
+  {
+    "id_marca": "1",
+    "name": "SILVERADO"
+  },
+  {
+    "id_marca": "1",
+    "name": "SONIC"
+  },
+  {
+    "id_marca": "1",
+    "name": "SONOMA"
+  },
+  {
+    "id_marca": "1",
+    "name": "SPACEVAN"
+  },
+  {
+    "id_marca": "1",
+    "name": "SS10"
+  },
+  {
+    "id_marca": "1",
+    "name": "SUBURBAN"
+  },
+  {
+    "id_marca": "1",
+    "name": "SYCLONE"
+  },
+  {
+    "id_marca": "1",
+    "name": "TIGRA"
+  },
+  {
+    "id_marca": "1",
+    "name": "TRACKER"
+  },
+  {
+    "id_marca": "1",
+    "name": "TRAFIC"
+  },
+  {
+    "id_marca": "1",
+    "name": "VECTRA"
+  },
+  {
+    "id_marca": "1",
+    "name": "VERANEIO"
+  },
+  {
+    "id_marca": "1",
+    "name": "ZAFIRA"
+  },
+  {
+    "id_marca": "75",
+    "name": "HOVER"
+  },
+  {
+    "id_marca": "17",
+    "name": "BR-800"
+  },
+  {
+    "id_marca": "17",
+    "name": "CARAJAS"
+  },
+  {
+    "id_marca": "17",
+    "name": "TOCANTINS"
+  },
+  {
+    "id_marca": "17",
+    "name": "XAVANTE"
+  },
+  {
+    "id_marca": "17",
+    "name": "VIP"
+  },
+  {
+    "id_marca": "76",
+    "name": "TOWNER"
+  },
+  {
+    "id_marca": "7",
+    "name": "ACCORD"
+  },
+  {
+    "id_marca": "7",
+    "name": "CITY"
+  },
+  {
+    "id_marca": "7",
+    "name": "CIVIC"
+  },
+  {
+    "id_marca": "7",
+    "name": "CR-V"
+  },
+  {
+    "id_marca": "7",
+    "name": "FIT"
+  },
+  {
+    "id_marca": "7",
+    "name": "ODYSSEY"
+  },
+  {
+    "id_marca": "7",
+    "name": "PASSPORT"
+  },
+  {
+    "id_marca": "7",
+    "name": "PRELUDE"
+  },
+  {
+    "id_marca": "14",
+    "name": "ACCENT"
+  },
+  {
+    "id_marca": "14",
+    "name": "ATOS"
+  },
+  {
+    "id_marca": "14",
+    "name": "AZERA"
+  },
+  {
+    "id_marca": "14",
+    "name": "COUPE"
+  },
+  {
+    "id_marca": "14",
+    "name": "ELANTRA"
+  },
+  {
+    "id_marca": "14",
+    "name": "EXCEL"
+  },
+  {
+    "id_marca": "14",
+    "name": "GALLOPER"
+  },
+  {
+    "id_marca": "14",
+    "name": "GENESIS"
+  },
+  {
+    "id_marca": "14",
+    "name": "H1"
+  },
+  {
+    "id_marca": "14",
+    "name": "H100"
+  },
+  {
+    "id_marca": "14",
+    "name": "I30"
+  },
+  {
+    "id_marca": "14",
+    "name": "IX35"
+  },
+  {
+    "id_marca": "14",
+    "name": "MATRIX"
+  },
+  {
+    "id_marca": "14",
+    "name": "PORTER"
+  },
+  {
+    "id_marca": "14",
+    "name": "SANTA FE"
+  },
+  {
+    "id_marca": "14",
+    "name": "SCOUPE"
+  },
+  {
+    "id_marca": "14",
+    "name": "SONATA"
+  },
+  {
+    "id_marca": "14",
+    "name": "TERRACAN"
+  },
+  {
+    "id_marca": "14",
+    "name": "TRAJET"
+  },
+  {
+    "id_marca": "14",
+    "name": "TUCSON"
+  },
+  {
+    "id_marca": "14",
+    "name": "VELOSTER"
+  },
+  {
+    "id_marca": "14",
+    "name": "VERACRUZ"
+  },
+  {
+    "id_marca": "84",
+    "name": "AMIGO"
+  },
+  {
+    "id_marca": "84",
+    "name": "HOMBRE"
+  },
+  {
+    "id_marca": "84",
+    "name": "RODEO"
+  },
+  {
+    "id_marca": "15",
+    "name": "J3"
+  },
+  {
+    "id_marca": "15",
+    "name": "J5"
+  },
+  {
+    "id_marca": "15",
+    "name": "J6"
+  },
+  {
+    "id_marca": "86",
+    "name": "DAIMLER"
+  },
+  {
+    "id_marca": "86",
+    "name": "S-TYPE"
+  },
+  {
+    "id_marca": "86",
+    "name": "X-TYPE"
+  },
+  {
+    "id_marca": "86",
+    "name": "MODELOS XJ"
+  },
+  {
+    "id_marca": "86",
+    "name": "MODELOS XK"
+  },
+  {
+    "id_marca": "87",
+    "name": "CHEROKEE"
+  },
+  {
+    "id_marca": "87",
+    "name": "COMMANDER"
+  },
+  {
+    "id_marca": "87",
+    "name": "COMPASS"
+  },
+  {
+    "id_marca": "87",
+    "name": "GRAND CHEROKEE"
+  },
+  {
+    "id_marca": "87",
+    "name": "WRANGLER"
+  },
+  {
+    "id_marca": "88",
+    "name": "TOPIC VAN"
+  },
+  {
+    "id_marca": "89",
+    "name": "JIPE MONTEZ"
+  },
+  {
+    "id_marca": "89",
+    "name": "PICAPE MONTEZ"
+  },
+  {
+    "id_marca": "16",
+    "name": "BESTA"
+  },
+  {
+    "id_marca": "16",
+    "name": "BONGO"
+  },
+  {
+    "id_marca": "16",
+    "name": "CADENZA"
+  },
+  {
+    "id_marca": "16",
+    "name": "CARENS"
+  },
+  {
+    "id_marca": "16",
+    "name": "CARNIVAL"
+  },
+  {
+    "id_marca": "16",
+    "name": "CERATO"
+  },
+  {
+    "id_marca": "16",
+    "name": "CERES"
+  },
+  {
+    "id_marca": "16",
+    "name": "CLARUS"
+  },
+  {
+    "id_marca": "16",
+    "name": "MAGENTIS"
+  },
+  {
+    "id_marca": "16",
+    "name": "MOHAVE"
+  },
+  {
+    "id_marca": "16",
+    "name": "OPIRUS"
+  },
+  {
+    "id_marca": "16",
+    "name": "OPTIMA"
+  },
+  {
+    "id_marca": "16",
+    "name": "PICANTO"
+  },
+  {
+    "id_marca": "16",
+    "name": "SEPHIA"
+  },
+  {
+    "id_marca": "16",
+    "name": "SHUMA"
+  },
+  {
+    "id_marca": "16",
+    "name": "SORENTO"
+  },
+  {
+    "id_marca": "16",
+    "name": "SOUL"
+  },
+  {
+    "id_marca": "16",
+    "name": "SPORTAGE"
+  },
+  {
+    "id_marca": "94",
+    "name": "LAIKA"
+  },
+  {
+    "id_marca": "94",
+    "name": "NIVA"
+  },
+  {
+    "id_marca": "94",
+    "name": "SAMARA"
+  },
+  {
+    "id_marca": "12",
+    "name": "GALLARDO"
+  },
+  {
+    "id_marca": "12",
+    "name": "MURCIELAGO"
+  },
+  {
+    "id_marca": "96",
+    "name": "DEFENDER"
+  },
+  {
+    "id_marca": "96",
+    "name": "DISCOVERY"
+  },
+  {
+    "id_marca": "96",
+    "name": "FREELANDER"
+  },
+  {
+    "id_marca": "96",
+    "name": "NEW RANGE"
+  },
+  {
+    "id_marca": "96",
+    "name": "RANGE ROVER"
+  },
+  {
+    "id_marca": "97",
+    "name": "ES"
+  },
+  {
+    "id_marca": "97",
+    "name": "GS"
+  },
+  {
+    "id_marca": "97",
+    "name": "IS-300"
+  },
+  {
+    "id_marca": "97",
+    "name": "LS"
+  },
+  {
+    "id_marca": "97",
+    "name": "RX"
+  },
+  {
+    "id_marca": "97",
+    "name": "SC"
+  },
+  {
+    "id_marca": "98",
+    "name": "320"
+  },
+  {
+    "id_marca": "98",
+    "name": "620"
+  },
+  {
+    "id_marca": "100",
+    "name": "H1"
+  },
+  {
+    "id_marca": "101",
+    "name": "ELAN"
+  },
+  {
+    "id_marca": "101",
+    "name": "ESPRIT"
+  },
+  {
+    "id_marca": "102",
+    "name": "SCORPIO"
+  },
+  {
+    "id_marca": "104",
+    "name": "222"
+  },
+  {
+    "id_marca": "104",
+    "name": "228"
+  },
+  {
+    "id_marca": "104",
+    "name": "3200"
+  },
+  {
+    "id_marca": "104",
+    "name": "430"
+  },
+  {
+    "id_marca": "104",
+    "name": "COUPE"
+  },
+  {
+    "id_marca": "104",
+    "name": "GHIBLI"
+  },
+  {
+    "id_marca": "104",
+    "name": "GRANCABRIO"
+  },
+  {
+    "id_marca": "104",
+    "name": "GRANSPORT"
+  },
+  {
+    "id_marca": "104",
+    "name": "GRANTURISMO"
+  },
+  {
+    "id_marca": "104",
+    "name": "QUATTROPORTE"
+  },
+  {
+    "id_marca": "104",
+    "name": "SHAMAL"
+  },
+  {
+    "id_marca": "104",
+    "name": "SPIDER"
+  },
+  {
+    "id_marca": "106",
+    "name": "PICK-UP"
+  },
+  {
+    "id_marca": "108",
+    "name": "323"
+  },
+  {
+    "id_marca": "108",
+    "name": "626"
+  },
+  {
+    "id_marca": "108",
+    "name": "929"
+  },
+  {
+    "id_marca": "108",
+    "name": "B-2500"
+  },
+  {
+    "id_marca": "108",
+    "name": "B2200"
+  },
+  {
+    "id_marca": "108",
+    "name": "MILLENIA"
+  },
+  {
+    "id_marca": "108",
+    "name": "MPV"
+  },
+  {
+    "id_marca": "108",
+    "name": "MX-3"
+  },
+  {
+    "id_marca": "108",
+    "name": "MX-5"
+  },
+  {
+    "id_marca": "108",
+    "name": "NAVAJO"
+  },
+  {
+    "id_marca": "108",
+    "name": "PROTEGE"
+  },
+  {
+    "id_marca": "108",
+    "name": "RX"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE A"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE B"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE R"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE GLK"
+  },
+  {
+    "id_marca": "4",
+    "name": "SPRINTER"
+  },
+  {
+    "id_marca": "110",
+    "name": "MYSTIQUE"
+  },
+  {
+    "id_marca": "110",
+    "name": "SABLE"
+  },
+  {
+    "id_marca": "112",
+    "name": "550"
+  },
+  {
+    "id_marca": "112",
+    "name": "MG6"
+  },
+  {
+    "id_marca": "113",
+    "name": "COOPER"
+  },
+  {
+    "id_marca": "113",
+    "name": "ONE"
+  },
+  {
+    "id_marca": "111",
+    "name": "3000"
+  },
+  {
+    "id_marca": "111",
+    "name": "AIRTREK"
+  },
+  {
+    "id_marca": "111",
+    "name": "ASX"
+  },
+  {
+    "id_marca": "111",
+    "name": "COLT"
+  },
+  {
+    "id_marca": "111",
+    "name": "DIAMANT"
+  },
+  {
+    "id_marca": "111",
+    "name": "ECLIPSE"
+  },
+  {
+    "id_marca": "111",
+    "name": "EXPO"
+  },
+  {
+    "id_marca": "111",
+    "name": "GALANT"
+  },
+  {
+    "id_marca": "111",
+    "name": "GRANDIS"
+  },
+  {
+    "id_marca": "111",
+    "name": "L200"
+  },
+  {
+    "id_marca": "111",
+    "name": "L300"
+  },
+  {
+    "id_marca": "111",
+    "name": "LANCER"
+  },
+  {
+    "id_marca": "111",
+    "name": "MIRAGE"
+  },
+  {
+    "id_marca": "111",
+    "name": "MONTERO"
+  },
+  {
+    "id_marca": "111",
+    "name": "OUTLANDER"
+  },
+  {
+    "id_marca": "111",
+    "name": "PAJERO"
+  },
+  {
+    "id_marca": "111",
+    "name": "SPACE WAGON"
+  },
+  {
+    "id_marca": "114",
+    "name": "BG-TRUCK"
+  },
+  {
+    "id_marca": "43",
+    "name": "350Z"
+  },
+  {
+    "id_marca": "43",
+    "name": "ALTIMA"
+  },
+  {
+    "id_marca": "43",
+    "name": "AX"
+  },
+  {
+    "id_marca": "43",
+    "name": "D-21"
+  },
+  {
+    "id_marca": "43",
+    "name": "FRONTIER"
+  },
+  {
+    "id_marca": "43",
+    "name": "KING-CAB"
+  },
+  {
+    "id_marca": "43",
+    "name": "LIVINA"
+  },
+  {
+    "id_marca": "43",
+    "name": "MARCH"
+  },
+  {
+    "id_marca": "43",
+    "name": "MAXIMA"
+  },
+  {
+    "id_marca": "43",
+    "name": "MURANO"
+  },
+  {
+    "id_marca": "43",
+    "name": "NX"
+  },
+  {
+    "id_marca": "43",
+    "name": "PATHFINDER"
+  },
+  {
+    "id_marca": "43",
+    "name": "PRIMERA"
+  },
+  {
+    "id_marca": "43",
+    "name": "QUEST"
+  },
+  {
+    "id_marca": "43",
+    "name": "SENTRA"
+  },
+  {
+    "id_marca": "43",
+    "name": "STANZA"
+  },
+  {
+    "id_marca": "43",
+    "name": "180SX"
+  },
+  {
+    "id_marca": "43",
+    "name": "TERRANO"
+  },
+  {
+    "id_marca": "43",
+    "name": "TIIDA"
+  },
+  {
+    "id_marca": "43",
+    "name": "VERSA"
+  },
+  {
+    "id_marca": "43",
+    "name": "X-TRAIL"
+  },
+  {
+    "id_marca": "43",
+    "name": "XTERRA"
+  },
+  {
+    "id_marca": "43",
+    "name": "ZX"
+  },
+  {
+    "id_marca": "22",
+    "name": "106"
+  },
+  {
+    "id_marca": "22",
+    "name": "205"
+  },
+  {
+    "id_marca": "22",
+    "name": "206"
+  },
+  {
+    "id_marca": "22",
+    "name": "207"
+  },
+  {
+    "id_marca": "22",
+    "name": "3008"
+  },
+  {
+    "id_marca": "22",
+    "name": "306"
+  },
+  {
+    "id_marca": "22",
+    "name": "307"
+  },
+  {
+    "id_marca": "22",
+    "name": "308"
+  },
+  {
+    "id_marca": "22",
+    "name": "405"
+  },
+  {
+    "id_marca": "22",
+    "name": "406"
+  },
+  {
+    "id_marca": "22",
+    "name": "407"
+  },
+  {
+    "id_marca": "22",
+    "name": "408"
+  },
+  {
+    "id_marca": "22",
+    "name": "504"
+  },
+  {
+    "id_marca": "22",
+    "name": "505"
+  },
+  {
+    "id_marca": "22",
+    "name": "508"
+  },
+  {
+    "id_marca": "22",
+    "name": "605"
+  },
+  {
+    "id_marca": "22",
+    "name": "607"
+  },
+  {
+    "id_marca": "22",
+    "name": "806"
+  },
+  {
+    "id_marca": "22",
+    "name": "807"
+  },
+  {
+    "id_marca": "22",
+    "name": "BOXER"
+  },
+  {
+    "id_marca": "22",
+    "name": "HOGGAR"
+  },
+  {
+    "id_marca": "22",
+    "name": "PARTNER"
+  },
+  {
+    "id_marca": "22",
+    "name": "RCZ"
+  },
+  {
+    "id_marca": "123",
+    "name": "GRAN VOYAGER"
+  },
+  {
+    "id_marca": "123",
+    "name": "SUNDANCE"
+  },
+  {
+    "id_marca": "69",
+    "name": "TRANS-AM"
+  },
+  {
+    "id_marca": "69",
+    "name": "TRANS-SPORT"
+  },
+  {
+    "id_marca": "70",
+    "name": "911"
+  },
+  {
+    "id_marca": "70",
+    "name": "BOXSTER"
+  },
+  {
+    "id_marca": "70",
+    "name": "CAYENNE"
+  },
+  {
+    "id_marca": "70",
+    "name": "CAYMAN"
+  },
+  {
+    "id_marca": "70",
+    "name": "PANAMERA"
+  },
+  {
+    "id_marca": "24",
+    "name": "21 SEDAN"
+  },
+  {
+    "id_marca": "24",
+    "name": "CLIO"
+  },
+  {
+    "id_marca": "24",
+    "name": "DUSTER"
+  },
+  {
+    "id_marca": "24",
+    "name": "EXPRESS"
+  },
+  {
+    "id_marca": "24",
+    "name": "FLUENCE"
+  },
+  {
+    "id_marca": "24",
+    "name": "KANGOO"
+  },
+  {
+    "id_marca": "24",
+    "name": "LAGUNA"
+  },
+  {
+    "id_marca": "24",
+    "name": "LOGAN"
+  },
+  {
+    "id_marca": "24",
+    "name": "MASTER"
+  },
+  {
+    "id_marca": "24",
+    "name": "MEGANE"
+  },
+  {
+    "id_marca": "24",
+    "name": "SAFRANE"
+  },
+  {
+    "id_marca": "24",
+    "name": "SANDERO"
+  },
+  {
+    "id_marca": "24",
+    "name": "SCENIC"
+  },
+  {
+    "id_marca": "24",
+    "name": "SYMBOL"
+  },
+  {
+    "id_marca": "24",
+    "name": "TRAFIC"
+  },
+  {
+    "id_marca": "24",
+    "name": "TWINGO"
+  },
+  {
+    "id_marca": "137",
+    "name": "9000"
+  },
+  {
+    "id_marca": "162",
+    "name": "SL-2"
+  },
+  {
+    "id_marca": "130",
+    "name": "CORDOBA"
+  },
+  {
+    "id_marca": "130",
+    "name": "IBIZA"
+  },
+  {
+    "id_marca": "130",
+    "name": "INCA"
+  },
+  {
+    "id_marca": "142",
+    "name": "FORTWO"
+  },
+  {
+    "id_marca": "21",
+    "name": "ACTYON SPORTS"
+  },
+  {
+    "id_marca": "21",
+    "name": "CHAIRMAN"
+  },
+  {
+    "id_marca": "21",
+    "name": "ISTANA"
+  },
+  {
+    "id_marca": "21",
+    "name": "KORANDO"
+  },
+  {
+    "id_marca": "21",
+    "name": "KYRON"
+  },
+  {
+    "id_marca": "21",
+    "name": "MUSSO"
+  },
+  {
+    "id_marca": "21",
+    "name": "REXTON"
+  },
+  {
+    "id_marca": "8",
+    "name": "FORESTER"
+  },
+  {
+    "id_marca": "8",
+    "name": "IMPREZA"
+  },
+  {
+    "id_marca": "8",
+    "name": "LEGACY"
+  },
+  {
+    "id_marca": "8",
+    "name": "OUTBACK"
+  },
+  {
+    "id_marca": "8",
+    "name": "SVX"
+  },
+  {
+    "id_marca": "8",
+    "name": "TRIBECA"
+  },
+  {
+    "id_marca": "8",
+    "name": "VIVIO"
+  },
+  {
+    "id_marca": "59",
+    "name": "BALENO"
+  },
+  {
+    "id_marca": "59",
+    "name": "GRAND VITARA"
+  },
+  {
+    "id_marca": "59",
+    "name": "IGNIS"
+  },
+  {
+    "id_marca": "59",
+    "name": "JIMNY"
+  },
+  {
+    "id_marca": "59",
+    "name": "SUPER CARRY"
+  },
+  {
+    "id_marca": "59",
+    "name": "SWIFT"
+  },
+  {
+    "id_marca": "59",
+    "name": "SX4"
+  },
+  {
+    "id_marca": "59",
+    "name": "VITARA"
+  },
+  {
+    "id_marca": "59",
+    "name": "WAGON R"
+  },
+  {
+    "id_marca": "146",
+    "name": "STARK"
+  },
+  {
+    "id_marca": "23",
+    "name": "AVALON"
+  },
+  {
+    "id_marca": "23",
+    "name": "BANDEIRANTE"
+  },
+  {
+    "id_marca": "23",
+    "name": "CAMRY"
+  },
+  {
+    "id_marca": "23",
+    "name": "CELICA"
+  },
+  {
+    "id_marca": "23",
+    "name": "COROLLA"
+  },
+  {
+    "id_marca": "23",
+    "name": "CORONA"
+  },
+  {
+    "id_marca": "23",
+    "name": "HILUX"
+  },
+  {
+    "id_marca": "23",
+    "name": "LAND CRUISER"
+  },
+  {
+    "id_marca": "23",
+    "name": "MR-2"
+  },
+  {
+    "id_marca": "23",
+    "name": "PASEO"
+  },
+  {
+    "id_marca": "23",
+    "name": "PREVIA"
+  },
+  {
+    "id_marca": "23",
+    "name": "RAV4"
+  },
+  {
+    "id_marca": "23",
+    "name": "SUPRA"
+  },
+  {
+    "id_marca": "149",
+    "name": "PANTANAL"
+  },
+  {
+    "id_marca": "149",
+    "name": "T-4"
+  },
+  {
+    "id_marca": "53",
+    "name": "400 SERIES"
+  },
+  {
+    "id_marca": "53",
+    "name": "850"
+  },
+  {
+    "id_marca": "53",
+    "name": "900 SERIES"
+  },
+  {
+    "id_marca": "2",
+    "name": "AMAROK"
+  },
+  {
+    "id_marca": "2",
+    "name": "APOLLO"
+  },
+  {
+    "id_marca": "2",
+    "name": "BORA"
+  },
+  {
+    "id_marca": "2",
+    "name": "CARAVELLE"
+  },
+  {
+    "id_marca": "2",
+    "name": "CORRADO"
+  },
+  {
+    "id_marca": "2",
+    "name": "EOS"
+  },
+  {
+    "id_marca": "2",
+    "name": "EUROVAN"
+  },
+  {
+    "id_marca": "2",
+    "name": "FOX"
+  },
+  {
+    "id_marca": "2",
+    "name": "FUSCA"
+  },
+  {
+    "id_marca": "2",
+    "name": "GOL"
+  },
+  {
+    "id_marca": "2",
+    "name": "GOLF"
+  },
+  {
+    "id_marca": "2",
+    "name": "JETTA"
+  },
+  {
+    "id_marca": "2",
+    "name": "KOMBI"
+  },
+  {
+    "id_marca": "2",
+    "name": "LOGUS"
+  },
+  {
+    "id_marca": "2",
+    "name": "PARATI"
+  },
+  {
+    "id_marca": "2",
+    "name": "PASSAT"
+  },
+  {
+    "id_marca": "2",
+    "name": "POINTER"
+  },
+  {
+    "id_marca": "2",
+    "name": "POLO"
+  },
+  {
+    "id_marca": "2",
+    "name": "SANTANA"
+  },
+  {
+    "id_marca": "2",
+    "name": "SAVEIRO"
+  },
+  {
+    "id_marca": "2",
+    "name": "SPACEFOX"
+  },
+  {
+    "id_marca": "2",
+    "name": "TIGUAN"
+  },
+  {
+    "id_marca": "2",
+    "name": "TOUAREG"
+  },
+  {
+    "id_marca": "2",
+    "name": "VOYAGE"
+  },
+  {
+    "id_marca": "25",
+    "name": "ZDX"
+  },
+  {
+    "id_marca": "3",
+    "name": "140"
+  },
+  {
+    "id_marca": "2",
+    "name": "BRASILIA"
+  },
+  {
+    "id_marca": "13",
+    "name": "BRASILVAN"
+  },
+  {
+    "id_marca": "13",
+    "name": "CORCEL"
+  },
+  {
+    "id_marca": "3",
+    "name": "PALIO WEEKEND"
+  },
+  {
+    "id_marca": "13",
+    "name": "FOCUS SEDAN"
+  },
+  {
+    "id_marca": "13",
+    "name": "FIESTA SEDAN"
+  },
+  {
+    "id_marca": "13",
+    "name": "FIESTA TRAIL"
+  },
+  {
+    "id_marca": "22",
+    "name": "207 SW"
+  },
+  {
+    "id_marca": "13",
+    "name": "ESCORT SW"
+  },
+  {
+    "id_marca": "22",
+    "name": "307 SEDAN"
+  },
+  {
+    "id_marca": "22",
+    "name": "307 SW"
+  },
+  {
+    "id_marca": "5",
+    "name": "C4 PALLAS"
+  },
+  {
+    "id_marca": "5",
+    "name": "C4 PICASSO"
+  },
+  {
+    "id_marca": "5",
+    "name": "C4 VTR"
+  },
+  {
+    "id_marca": "24",
+    "name": "CLIO SEDAN"
+  },
+  {
+    "id_marca": "23",
+    "name": "COROLLA FIELDER"
+  },
+  {
+    "id_marca": "23",
+    "name": "HILUX SW4"
+  },
+  {
+    "id_marca": "24",
+    "name": "MEGANE GRAND TOUR"
+  },
+  {
+    "id_marca": "24",
+    "name": "SANDERO STEPWAY"
+  },
+  {
+    "id_marca": "5",
+    "name": "XSARA PICASSO"
+  },
+  {
+    "id_marca": "131",
+    "name": "COLHEITADEIRA"
+  },
+  {
+    "id_marca": "158",
+    "name": "PICKUP F75"
+  },
+  {
+    "id_marca": "17",
+    "name": "X12"
+  },
+  {
+    "id_marca": "1",
+    "name": "BEL AIR"
+  },
+  {
+    "id_marca": "36",
+    "name": "RX"
+  },
+  {
+    "id_marca": "1",
+    "name": "C-14"
+  },
+  {
+    "id_marca": "155",
+    "name": "SRX4"
+  },
+  {
+    "id_marca": "1",
+    "name": "C-15"
+  },
+  {
+    "id_marca": "1",
+    "name": "BRASIL"
+  },
+  {
+    "id_marca": "18",
+    "name": "POLARA"
+  },
+  {
+    "id_marca": "3",
+    "name": "600"
+  },
+  {
+    "id_marca": "13",
+    "name": "F-01"
+  },
+  {
+    "id_marca": "13",
+    "name": "FALCON"
+  },
+  {
+    "id_marca": "13",
+    "name": "GALAXIE"
+  },
+  {
+    "id_marca": "13",
+    "name": "MAVERICK"
+  },
+  {
+    "id_marca": "13",
+    "name": "MODELO A"
+  },
+  {
+    "id_marca": "13",
+    "name": "NEW FIESTA"
+  },
+  {
+    "id_marca": "82",
+    "name": "LINHA FX"
+  },
+  {
+    "id_marca": "124",
+    "name": "GTS"
+  },
+  {
+    "id_marca": "80",
+    "name": "H3"
+  },
+  {
+    "id_marca": "14",
+    "name": "PRIME"
+  },
+  {
+    "id_marca": "14",
+    "name": "TIBURON"
+  },
+  {
+    "id_marca": "87",
+    "name": "JEEP"
+  },
+  {
+    "id_marca": "87",
+    "name": "CJ5"
+  },
+  {
+    "id_marca": "239",
+    "name": "TC"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE CLC"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE CLS"
+  },
+  {
+    "id_marca": "110",
+    "name": "MONTEREY"
+  },
+  {
+    "id_marca": "114",
+    "name": "TOPSPORT"
+  },
+  {
+    "id_marca": "114",
+    "name": "TARGA"
+  },
+  {
+    "id_marca": "114",
+    "name": "X8"
+  },
+  {
+    "id_marca": "43",
+    "name": "370Z"
+  },
+  {
+    "id_marca": "124",
+    "name": "GTB"
+  },
+  {
+    "id_marca": "124",
+    "name": "GTC"
+  },
+  {
+    "id_marca": "124",
+    "name": "GTE"
+  },
+  {
+    "id_marca": "115",
+    "name": "AUSTIN"
+  },
+  {
+    "id_marca": "24",
+    "name": "7TL"
+  },
+  {
+    "id_marca": "24",
+    "name": "19"
+  },
+  {
+    "id_marca": "175",
+    "name": "CONVERS�VEL"
+  },
+  {
+    "id_marca": "17",
+    "name": "SUPERMINI"
+  },
+  {
+    "id_marca": "2",
+    "name": "TL"
+  },
+  {
+    "id_marca": "3",
+    "name": "TOPOLINO"
+  },
+  {
+    "id_marca": "23",
+    "name": "SR5"
+  },
+  {
+    "id_marca": "23",
+    "name": "VITZ"
+  },
+  {
+    "id_marca": "2",
+    "name": "VARIANT"
+  },
+  {
+    "id_marca": "57",
+    "name": "CANDANGO"
+  },
+  {
+    "id_marca": "2",
+    "name": "SP2"
+  },
+  {
+    "id_marca": "258",
+    "name": "RECORB"
+  },
+  {
+    "id_marca": "2",
+    "name": "POLAUTO"
+  },
+  {
+    "id_marca": "24",
+    "name": "GORDINI"
+  },
+  {
+    "id_marca": "265",
+    "name": "MINX"
+  },
+  {
+    "id_marca": "23",
+    "name": "ETIOS"
+  },
+  {
+    "id_marca": "1",
+    "name": "ONIX"
+  },
+  {
+    "id_marca": "14",
+    "name": "HB20"
+  },
+  {
+    "id_marca": "36",
+    "name": "330"
+  },
+  {
+    "id_marca": "36",
+    "name": "520"
+  },
+  {
+    "id_marca": "36",
+    "name": "730"
+  },
+  {
+    "id_marca": "36",
+    "name": "M1"
+  },
+  {
+    "id_marca": "36",
+    "name": "SERIE Z"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE SLK"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE C"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE E"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE CL"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE CLK"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE S"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE SL"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE SLS"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE G"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE GL"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE M"
+  },
+  {
+    "id_marca": "288",
+    "name": "1500"
+  },
+  {
+    "id_marca": "14",
+    "name": "EQUUS"
+  },
+  {
+    "id_marca": "12",
+    "name": "350 GT"
+  },
+  {
+    "id_marca": "12",
+    "name": "400 GT"
+  },
+  {
+    "id_marca": "12",
+    "name": "MIURA"
+  },
+  {
+    "id_marca": "12",
+    "name": "ISLERO"
+  },
+  {
+    "id_marca": "12",
+    "name": "ESPADA"
+  },
+  {
+    "id_marca": "12",
+    "name": "COUNTACH"
+  },
+  {
+    "id_marca": "12",
+    "name": "DIABLO"
+  },
+  {
+    "id_marca": "12",
+    "name": "ZAGATO"
+  },
+  {
+    "id_marca": "12",
+    "name": "ALAR"
+  },
+  {
+    "id_marca": "12",
+    "name": "LM002"
+  },
+  {
+    "id_marca": "12",
+    "name": "REVENTON"
+  },
+  {
+    "id_marca": "12",
+    "name": "ANKONIAN"
+  },
+  {
+    "id_marca": "12",
+    "name": "AVENTADOR"
+  },
+  {
+    "id_marca": "12",
+    "name": "SESTO ELEMENTO"
+  },
+  {
+    "id_marca": "15",
+    "name": "J3 TURIN"
+  },
+  {
+    "id_marca": "15",
+    "name": "J2"
+  },
+  {
+    "id_marca": "24",
+    "name": "SANDERO GT"
+  },
+  {
+    "id_marca": "1",
+    "name": "SPIN"
+  },
+  {
+    "id_marca": "1",
+    "name": "TRAILBLAZER"
+  },
+  {
+    "id_marca": "5",
+    "name": "C3 PICASSO"
+  },
+  {
+    "id_marca": "5",
+    "name": "GRAND C4 PICASSO"
+  },
+  {
+    "id_marca": "5",
+    "name": "JUMPER MINIBUS"
+  },
+  {
+    "id_marca": "5",
+    "name": "JUMPER VETRATO"
+  },
+  {
+    "id_marca": "22",
+    "name": "207 SEDAN"
+  },
+  {
+    "id_marca": "22",
+    "name": "207 QUIKSILVER"
+  },
+  {
+    "id_marca": "22",
+    "name": "207 ESCAPADE"
+  },
+  {
+    "id_marca": "22",
+    "name": "308 CC"
+  },
+  {
+    "id_marca": "22",
+    "name": "BOXER PASSAGEIRO"
+  },
+  {
+    "id_marca": "13",
+    "name": "NEW FIESTA SEDAN"
+  },
+  {
+    "id_marca": "13",
+    "name": "TRANSIT PASSAGEIRO"
+  },
+  {
+    "id_marca": "13",
+    "name": "TRANSIT CHASSI"
+  },
+  {
+    "id_marca": "32",
+    "name": "A4 AVANT"
+  },
+  {
+    "id_marca": "32",
+    "name": "S4 AVANT"
+  },
+  {
+    "id_marca": "32",
+    "name": "A5 SPORTBACK"
+  },
+  {
+    "id_marca": "32",
+    "name": "A5 CABRIOLET"
+  },
+  {
+    "id_marca": "32",
+    "name": "S5 COUPE"
+  },
+  {
+    "id_marca": "32",
+    "name": "S5 SPORTBACK"
+  },
+  {
+    "id_marca": "32",
+    "name": "S5 CABRIOLET"
+  },
+  {
+    "id_marca": "32",
+    "name": "A6 AVANT"
+  },
+  {
+    "id_marca": "32",
+    "name": "A6 ALLROAD"
+  },
+  {
+    "id_marca": "32",
+    "name": "S6 AVANT"
+  },
+  {
+    "id_marca": "32",
+    "name": "S7"
+  },
+  {
+    "id_marca": "32",
+    "name": "TT ROADSTER"
+  },
+  {
+    "id_marca": "32",
+    "name": "TT RS"
+  },
+  {
+    "id_marca": "32",
+    "name": "TT RS ROADSTER"
+  },
+  {
+    "id_marca": "32",
+    "name": "TTS ROADSTER"
+  },
+  {
+    "id_marca": "32",
+    "name": "R8 SPYDER"
+  },
+  {
+    "id_marca": "32",
+    "name": "R8 GT"
+  },
+  {
+    "id_marca": "32",
+    "name": "R8 GT SPYDER"
+  },
+  {
+    "id_marca": "10",
+    "name": "F12"
+  },
+  {
+    "id_marca": "10",
+    "name": "458 SPIDER"
+  },
+  {
+    "id_marca": "10",
+    "name": "458 ITALIA"
+  },
+  {
+    "id_marca": "10",
+    "name": "FF"
+  },
+  {
+    "id_marca": "10",
+    "name": "599"
+  },
+  {
+    "id_marca": "10",
+    "name": "SA"
+  },
+  {
+    "id_marca": "10",
+    "name": "CHALLENGE"
+  },
+  {
+    "id_marca": "10",
+    "name": "SUPERAMERICA"
+  },
+  {
+    "id_marca": "10",
+    "name": "F430 SPIDER"
+  },
+  {
+    "id_marca": "10",
+    "name": "430"
+  },
+  {
+    "id_marca": "10",
+    "name": "612 SESSANTA"
+  },
+  {
+    "id_marca": "10",
+    "name": "599 GTB"
+  },
+  {
+    "id_marca": "10",
+    "name": "SCUDERIA SPIDER"
+  },
+  {
+    "id_marca": "10",
+    "name": "512"
+  },
+  {
+    "id_marca": "10",
+    "name": "456 GT"
+  },
+  {
+    "id_marca": "10",
+    "name": "348 GTS"
+  },
+  {
+    "id_marca": "10",
+    "name": "348 SPIDER"
+  },
+  {
+    "id_marca": "10",
+    "name": "F355"
+  },
+  {
+    "id_marca": "10",
+    "name": "F355 SPIDER"
+  },
+  {
+    "id_marca": "10",
+    "name": "F50"
+  },
+  {
+    "id_marca": "10",
+    "name": "355 SPIDER"
+  },
+  {
+    "id_marca": "10",
+    "name": "360 MODENA"
+  },
+  {
+    "id_marca": "111",
+    "name": "PAJERO FULL"
+  },
+  {
+    "id_marca": "111",
+    "name": "PAJERO DAKAR"
+  },
+  {
+    "id_marca": "111",
+    "name": "PAJERO TR4"
+  },
+  {
+    "id_marca": "111",
+    "name": "LANCER SPORTBACK"
+  },
+  {
+    "id_marca": "111",
+    "name": "LANCER EVOLUTION"
+  },
+  {
+    "id_marca": "111",
+    "name": "L200 TRITON SAVANA"
+  },
+  {
+    "id_marca": "111",
+    "name": "L200 TRITON"
+  },
+  {
+    "id_marca": "43",
+    "name": "LIVINA X-GEAR"
+  },
+  {
+    "id_marca": "43",
+    "name": "GRAND LIVINA"
+  },
+  {
+    "id_marca": "21",
+    "name": "NEW ACTYON SPORTS"
+  },
+  {
+    "id_marca": "23",
+    "name": "PRIUS"
+  },
+  {
+    "id_marca": "114",
+    "name": "SPORT"
+  },
+  {
+    "id_marca": "114",
+    "name": "MTS"
+  },
+  {
+    "id_marca": "114",
+    "name": "SPIDER"
+  },
+  {
+    "id_marca": "114",
+    "name": "KABRIO"
+  },
+  {
+    "id_marca": "114",
+    "name": "SAGA"
+  },
+  {
+    "id_marca": "114",
+    "name": "SAGA II"
+  },
+  {
+    "id_marca": "114",
+    "name": "787"
+  },
+  {
+    "id_marca": "114",
+    "name": "X11"
+  },
+  {
+    "id_marca": "295",
+    "name": "GAIOLA"
+  },
+  {
+    "id_marca": "18",
+    "name": "NITRO"
+  },
+  {
+    "id_marca": "18",
+    "name": "CHALLENGER"
+  },
+  {
+    "id_marca": "18",
+    "name": "DART"
+  },
+  {
+    "id_marca": "18",
+    "name": "LE BARON"
+  },
+  {
+    "id_marca": "18",
+    "name": "CORDOBA"
+  },
+  {
+    "id_marca": "18",
+    "name": "CHARGER"
+  },
+  {
+    "id_marca": "19",
+    "name": "WINDSOR"
+  },
+  {
+    "id_marca": "19",
+    "name": "CROSSFIRE"
+  },
+  {
+    "id_marca": "19",
+    "name": "CORDOBA"
+  },
+  {
+    "id_marca": "155",
+    "name": "ESCALADE"
+  },
+  {
+    "id_marca": "41",
+    "name": "RIVIERA"
+  },
+  {
+    "id_marca": "41",
+    "name": "COUPE"
+  },
+  {
+    "id_marca": "41",
+    "name": "CENTURY"
+  },
+  {
+    "id_marca": "41",
+    "name": "APOLLO"
+  },
+  {
+    "id_marca": "41",
+    "name": "CENTURION"
+  },
+  {
+    "id_marca": "41",
+    "name": "EIGHT"
+  },
+  {
+    "id_marca": "41",
+    "name": "ELECTRA"
+  },
+  {
+    "id_marca": "41",
+    "name": "ESTATE WAGON"
+  },
+  {
+    "id_marca": "41",
+    "name": "GRAN SPORT"
+  },
+  {
+    "id_marca": "41",
+    "name": "GSX"
+  },
+  {
+    "id_marca": "41",
+    "name": "INVICTA"
+  },
+  {
+    "id_marca": "41",
+    "name": "LESABRE"
+  },
+  {
+    "id_marca": "41",
+    "name": "LIMITED"
+  },
+  {
+    "id_marca": "41",
+    "name": "PARK AVENUE"
+  },
+  {
+    "id_marca": "41",
+    "name": "RAINIER"
+  },
+  {
+    "id_marca": "41",
+    "name": "REATTA"
+  },
+  {
+    "id_marca": "41",
+    "name": "REGAL"
+  },
+  {
+    "id_marca": "41",
+    "name": "RENDEZVOUS"
+  },
+  {
+    "id_marca": "41",
+    "name": "ROADMASTER"
+  },
+  {
+    "id_marca": "41",
+    "name": "ROYAUM"
+  },
+  {
+    "id_marca": "41",
+    "name": "SKYHAWK"
+  },
+  {
+    "id_marca": "41",
+    "name": "SKYLARK"
+  },
+  {
+    "id_marca": "41",
+    "name": "SOMERSET"
+  },
+  {
+    "id_marca": "41",
+    "name": "SPECIAL"
+  },
+  {
+    "id_marca": "41",
+    "name": "SPORT WAGON"
+  },
+  {
+    "id_marca": "41",
+    "name": "SUPER"
+  },
+  {
+    "id_marca": "41",
+    "name": "TERRAZA"
+  },
+  {
+    "id_marca": "41",
+    "name": "WILDCAT"
+  },
+  {
+    "id_marca": "41",
+    "name": "LACROSSE"
+  },
+  {
+    "id_marca": "41",
+    "name": "ENCLAVE"
+  },
+  {
+    "id_marca": "41",
+    "name": "GL8"
+  },
+  {
+    "id_marca": "41",
+    "name": "HRV"
+  },
+  {
+    "id_marca": "41",
+    "name": "LUCERNE"
+  },
+  {
+    "id_marca": "13",
+    "name": "SIERRA"
+  },
+  {
+    "id_marca": "51",
+    "name": "BROUGHAM"
+  },
+  {
+    "id_marca": "51",
+    "name": "CHAIRMAN"
+  },
+  {
+    "id_marca": "51",
+    "name": "DAMAS"
+  },
+  {
+    "id_marca": "51",
+    "name": "GENTRA"
+  },
+  {
+    "id_marca": "51",
+    "name": "MAEPSY"
+  },
+  {
+    "id_marca": "51",
+    "name": "ISTANA"
+  },
+  {
+    "id_marca": "51",
+    "name": "KALOS"
+  },
+  {
+    "id_marca": "51",
+    "name": "KORANDO"
+  },
+  {
+    "id_marca": "51",
+    "name": "LACETTI"
+  },
+  {
+    "id_marca": "51",
+    "name": "LEMANS"
+  },
+  {
+    "id_marca": "51",
+    "name": "MATIZ"
+  },
+  {
+    "id_marca": "51",
+    "name": "MUSSO"
+  },
+  {
+    "id_marca": "51",
+    "name": "NEXIA"
+  },
+  {
+    "id_marca": "51",
+    "name": "REZZO"
+  },
+  {
+    "id_marca": "51",
+    "name": "ROYALE PRINCE"
+  },
+  {
+    "id_marca": "51",
+    "name": "ROYALE SALON"
+  },
+  {
+    "id_marca": "51",
+    "name": "STATESMAN"
+  },
+  {
+    "id_marca": "51",
+    "name": "TOSCA"
+  },
+  {
+    "id_marca": "51",
+    "name": "WINSTORM"
+  },
+  {
+    "id_marca": "158",
+    "name": "RURAL"
+  },
+  {
+    "id_marca": "18",
+    "name": "D100"
+  },
+  {
+    "id_marca": "4",
+    "name": "170"
+  },
+  {
+    "id_marca": "18",
+    "name": "CUSTOM ROYAL"
+  },
+  {
+    "id_marca": "1",
+    "name": "CLUB COUPE"
+  },
+  {
+    "id_marca": "18",
+    "name": "MAGNUM"
+  },
+  {
+    "id_marca": "1",
+    "name": "GMC 100"
+  },
+  {
+    "id_marca": "69",
+    "name": "SOLSTICE"
+  },
+  {
+    "id_marca": "158",
+    "name": "ITAMARATY"
+  },
+  {
+    "id_marca": "86",
+    "name": "MARK V"
+  },
+  {
+    "id_marca": "124",
+    "name": "GT"
+  },
+  {
+    "id_marca": "145",
+    "name": "CHAMPION"
+  },
+  {
+    "id_marca": "3",
+    "name": "BALILLA"
+  },
+  {
+    "id_marca": "158",
+    "name": "INTERLAGOS"
+  },
+  {
+    "id_marca": "17",
+    "name": "X15"
+  },
+  {
+    "id_marca": "13",
+    "name": "F-85"
+  },
+  {
+    "id_marca": "70",
+    "name": "SPEEDSTER 356"
+  },
+  {
+    "id_marca": "88",
+    "name": "TOPIC FURGAO"
+  },
+  {
+    "id_marca": "88",
+    "name": "TOPIC ESCOLAR"
+  },
+  {
+    "id_marca": "4",
+    "name": "300D"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE TE"
+  },
+  {
+    "id_marca": "23",
+    "name": "T-100"
+  },
+  {
+    "id_marca": "24",
+    "name": "MEGANE SEDAN"
+  },
+  {
+    "id_marca": "32",
+    "name": "A4 CABRIOLET"
+  },
+  {
+    "id_marca": "82",
+    "name": "LINHA G"
+  },
+  {
+    "id_marca": "82",
+    "name": "LINHA G COUPE"
+  },
+  {
+    "id_marca": "82",
+    "name": "LINHA G CONVERSIVEL"
+  },
+  {
+    "id_marca": "82",
+    "name": "LINHA M"
+  },
+  {
+    "id_marca": "82",
+    "name": "LINHA EX"
+  },
+  {
+    "id_marca": "82",
+    "name": "LINHA JX"
+  },
+  {
+    "id_marca": "82",
+    "name": "LINHA QX"
+  },
+  {
+    "id_marca": "86",
+    "name": "MODELOS XF"
+  },
+  {
+    "id_marca": "86",
+    "name": "F-TYPE"
+  },
+  {
+    "id_marca": "86",
+    "name": "MARK VII"
+  },
+  {
+    "id_marca": "86",
+    "name": "MARK VIII"
+  },
+  {
+    "id_marca": "86",
+    "name": "MARK IX"
+  },
+  {
+    "id_marca": "86",
+    "name": "MARK X"
+  },
+  {
+    "id_marca": "86",
+    "name": "E-TYPE"
+  },
+  {
+    "id_marca": "86",
+    "name": "C-TYPE"
+  },
+  {
+    "id_marca": "86",
+    "name": "D-TYPE"
+  },
+  {
+    "id_marca": "86",
+    "name": "MARK I"
+  },
+  {
+    "id_marca": "86",
+    "name": "MARK II"
+  },
+  {
+    "id_marca": "124",
+    "name": "GT4R"
+  },
+  {
+    "id_marca": "124",
+    "name": "SPYDER"
+  },
+  {
+    "id_marca": "124",
+    "name": "GTI"
+  },
+  {
+    "id_marca": "124",
+    "name": "AM1"
+  },
+  {
+    "id_marca": "124",
+    "name": "AM2"
+  },
+  {
+    "id_marca": "124",
+    "name": "AM3"
+  },
+  {
+    "id_marca": "124",
+    "name": "AM4"
+  },
+  {
+    "id_marca": "124",
+    "name": "AMV"
+  },
+  {
+    "id_marca": "7",
+    "name": "ACTY"
+  },
+  {
+    "id_marca": "7",
+    "name": "AIRWAVE"
+  },
+  {
+    "id_marca": "7",
+    "name": "ASCOT"
+  },
+  {
+    "id_marca": "7",
+    "name": "BALLADE"
+  },
+  {
+    "id_marca": "7",
+    "name": "BEAT"
+  },
+  {
+    "id_marca": "7",
+    "name": "CR-X"
+  },
+  {
+    "id_marca": "7",
+    "name": "CONCERTO"
+  },
+  {
+    "id_marca": "7",
+    "name": "CR-Z"
+  },
+  {
+    "id_marca": "7",
+    "name": "DOMANI"
+  },
+  {
+    "id_marca": "7",
+    "name": "EDIX"
+  },
+  {
+    "id_marca": "7",
+    "name": "ELEMENT"
+  },
+  {
+    "id_marca": "7",
+    "name": "EV PLUS"
+  },
+  {
+    "id_marca": "7",
+    "name": "FCX"
+  },
+  {
+    "id_marca": "7",
+    "name": "FR-V"
+  },
+  {
+    "id_marca": "7",
+    "name": "HR-V"
+  },
+  {
+    "id_marca": "7",
+    "name": "HSC"
+  },
+  {
+    "id_marca": "7",
+    "name": "INSIGHT"
+  },
+  {
+    "id_marca": "25",
+    "name": "TL"
+  },
+  {
+    "id_marca": "7",
+    "name": "LIFE DUNK"
+  },
+  {
+    "id_marca": "7",
+    "name": "LOGO"
+  },
+  {
+    "id_marca": "7",
+    "name": "MOBILIO"
+  },
+  {
+    "id_marca": "25",
+    "name": "MDX"
+  },
+  {
+    "id_marca": "7",
+    "name": "ORTHIA"
+  },
+  {
+    "id_marca": "7",
+    "name": "PARTNER VAN"
+  },
+  {
+    "id_marca": "7",
+    "name": "PILOT"
+  },
+  {
+    "id_marca": "7",
+    "name": "RIDGELINE"
+  },
+  {
+    "id_marca": "7",
+    "name": "S2000"
+  },
+  {
+    "id_marca": "7",
+    "name": "S600"
+  },
+  {
+    "id_marca": "7",
+    "name": "S500"
+  },
+  {
+    "id_marca": "7",
+    "name": "S800"
+  },
+  {
+    "id_marca": "7",
+    "name": "STEPWGN"
+  },
+  {
+    "id_marca": "7",
+    "name": "STREAM"
+  },
+  {
+    "id_marca": "7",
+    "name": "THATS"
+  },
+  {
+    "id_marca": "7",
+    "name": "VAMOZ"
+  },
+  {
+    "id_marca": "7",
+    "name": "Z"
+  },
+  {
+    "id_marca": "7",
+    "name": "ZEST"
+  },
+  {
+    "id_marca": "59",
+    "name": "AERIO"
+  },
+  {
+    "id_marca": "59",
+    "name": "ALTO"
+  },
+  {
+    "id_marca": "59",
+    "name": "APV"
+  },
+  {
+    "id_marca": "59",
+    "name": "KEI"
+  },
+  {
+    "id_marca": "59",
+    "name": "LAPIN"
+  },
+  {
+    "id_marca": "59",
+    "name": "MR WAGON"
+  },
+  {
+    "id_marca": "59",
+    "name": "XL-7"
+  },
+  {
+    "id_marca": "59",
+    "name": "VERONA"
+  },
+  {
+    "id_marca": "158",
+    "name": "JEEP CJ"
+  },
+  {
+    "id_marca": "22",
+    "name": "306 CABRIOLET"
+  },
+  {
+    "id_marca": "57",
+    "name": "BELCAR"
+  },
+  {
+    "id_marca": "90",
+    "name": "M715"
+  },
+  {
+    "id_marca": "22",
+    "name": "407 SW"
+  },
+  {
+    "id_marca": "22",
+    "name": "307 CC"
+  },
+  {
+    "id_marca": "1",
+    "name": "STYLELINE"
+  },
+  {
+    "id_marca": "13",
+    "name": "ANGLIA"
+  },
+  {
+    "id_marca": "26",
+    "name": "GT2"
+  },
+  {
+    "id_marca": "1",
+    "name": "YUKON"
+  },
+  {
+    "id_marca": "54",
+    "name": "SPORTSMAN"
+  },
+  {
+    "id_marca": "24",
+    "name": "21 NEVADA"
+  },
+  {
+    "id_marca": "11",
+    "name": "VEYRON"
+  },
+  {
+    "id_marca": "10",
+    "name": "ENZO"
+  },
+  {
+    "id_marca": "22",
+    "name": "306 SW"
+  },
+  {
+    "id_marca": "28",
+    "name": "TI 80"
+  },
+  {
+    "id_marca": "70",
+    "name": "SPYDER 550"
+  },
+  {
+    "id_marca": "10",
+    "name": "380 GTB"
+  },
+  {
+    "id_marca": "149",
+    "name": "T-5"
+  },
+  {
+    "id_marca": "18",
+    "name": "KINGSWAY"
+  },
+  {
+    "id_marca": "1",
+    "name": "SSR"
+  },
+  {
+    "id_marca": "1",
+    "name": "IMPALA"
+  },
+  {
+    "id_marca": "22",
+    "name": "208"
+  },
+  {
+    "id_marca": "1",
+    "name": "GRAND BLAZER"
+  },
+  {
+    "id_marca": "53",
+    "name": "100 SERIES"
+  },
+  {
+    "id_marca": "53",
+    "name": "200 SERIES"
+  },
+  {
+    "id_marca": "53",
+    "name": "300 SERIES"
+  },
+  {
+    "id_marca": "53",
+    "name": "66"
+  },
+  {
+    "id_marca": "53",
+    "name": "700 SERIES"
+  },
+  {
+    "id_marca": "53",
+    "name": "AMAZON"
+  },
+  {
+    "id_marca": "53",
+    "name": "C303"
+  },
+  {
+    "id_marca": "53",
+    "name": "DUETT"
+  },
+  {
+    "id_marca": "53",
+    "name": "L3314"
+  },
+  {
+    "id_marca": "53",
+    "name": "OV 4"
+  },
+  {
+    "id_marca": "53",
+    "name": "P1800"
+  },
+  {
+    "id_marca": "53",
+    "name": "SUGGA"
+  },
+  {
+    "id_marca": "13",
+    "name": "TT"
+  },
+  {
+    "id_marca": "5",
+    "name": "ONCE"
+  },
+  {
+    "id_marca": "13",
+    "name": "DE LUXE"
+  },
+  {
+    "id_marca": "13",
+    "name": "CUSTOM"
+  },
+  {
+    "id_marca": "13",
+    "name": "T-BUCKET"
+  },
+  {
+    "id_marca": "17",
+    "name": "G15"
+  },
+  {
+    "id_marca": "111",
+    "name": "PAJERO FULL 3D"
+  },
+  {
+    "id_marca": "111",
+    "name": "PAJERO SPORT"
+  },
+  {
+    "id_marca": "36",
+    "name": "120 CABRIO"
+  },
+  {
+    "id_marca": "36",
+    "name": "320 TOURING"
+  },
+  {
+    "id_marca": "36",
+    "name": "330 CABRIO"
+  },
+  {
+    "id_marca": "36",
+    "name": "SERIE 5 TOURING"
+  },
+  {
+    "id_marca": "36",
+    "name": "SERIE 6 CABRIO"
+  },
+  {
+    "id_marca": "36",
+    "name": "SERIE M CONVERSIVEL"
+  },
+  {
+    "id_marca": "36",
+    "name": "M5 TOURING"
+  },
+  {
+    "id_marca": "36",
+    "name": "SERIE Z ROADSTER"
+  },
+  {
+    "id_marca": "13",
+    "name": "KA SPORT"
+  },
+  {
+    "id_marca": "2",
+    "name": "CC"
+  },
+  {
+    "id_marca": "16",
+    "name": "CERATO KOUP"
+  },
+  {
+    "id_marca": "1",
+    "name": "ASTRO"
+  },
+  {
+    "id_marca": "23",
+    "name": "COROLLA XRS"
+  },
+  {
+    "id_marca": "23",
+    "name": "ETIOS SEDAN"
+  },
+  {
+    "id_marca": "13",
+    "name": "FREESTYLE"
+  },
+  {
+    "id_marca": "110",
+    "name": "COUGAR"
+  },
+  {
+    "id_marca": "102",
+    "name": "XUV 500"
+  },
+  {
+    "id_marca": "102",
+    "name": "XYLO"
+  },
+  {
+    "id_marca": "102",
+    "name": "BOLERO"
+  },
+  {
+    "id_marca": "102",
+    "name": "THAR"
+  },
+  {
+    "id_marca": "102",
+    "name": "AXE"
+  },
+  {
+    "id_marca": "102",
+    "name": "LEGEND"
+  },
+  {
+    "id_marca": "87",
+    "name": "CJ3"
+  },
+  {
+    "id_marca": "102",
+    "name": "ARMADA"
+  },
+  {
+    "id_marca": "102",
+    "name": "CHASSI"
+  },
+  {
+    "id_marca": "102",
+    "name": "SCORPIO PICK-UP"
+  },
+  {
+    "id_marca": "6",
+    "name": "STAR TRUCK"
+  },
+  {
+    "id_marca": "6",
+    "name": "STAR"
+  },
+  {
+    "id_marca": "6",
+    "name": "STAR VAN CARGO"
+  },
+  {
+    "id_marca": "6",
+    "name": "STAR VAN PASSAGEIROS"
+  },
+  {
+    "id_marca": "141",
+    "name": "ALVORADA"
+  },
+  {
+    "id_marca": "141",
+    "name": "CHAMBORD"
+  },
+  {
+    "id_marca": "141",
+    "name": "PROFISSIONAL"
+  },
+  {
+    "id_marca": "141",
+    "name": "VEDETTE"
+  },
+  {
+    "id_marca": "141",
+    "name": "ARONDE"
+  },
+  {
+    "id_marca": "141",
+    "name": "1200S"
+  },
+  {
+    "id_marca": "141",
+    "name": "1000"
+  },
+  {
+    "id_marca": "14",
+    "name": "HB20X"
+  },
+  {
+    "id_marca": "14",
+    "name": "HB20S"
+  },
+  {
+    "id_marca": "1",
+    "name": "MONZA"
+  },
+  {
+    "id_marca": "1",
+    "name": "CHEVETTE"
+  },
+  {
+    "id_marca": "98",
+    "name": "X60"
+  },
+  {
+    "id_marca": "1",
+    "name": "TRAX"
+  },
+  {
+    "id_marca": "36",
+    "name": "118"
+  },
+  {
+    "id_marca": "36",
+    "name": "120"
+  },
+  {
+    "id_marca": "36",
+    "name": "130"
+  },
+  {
+    "id_marca": "36",
+    "name": "BAVARIA"
+  },
+  {
+    "id_marca": "36",
+    "name": "C-2800"
+  },
+  {
+    "id_marca": "36",
+    "name": "318"
+  },
+  {
+    "id_marca": "36",
+    "name": "320"
+  },
+  {
+    "id_marca": "36",
+    "name": "318 CABRIO"
+  },
+  {
+    "id_marca": "36",
+    "name": "325 CABRIO"
+  },
+  {
+    "id_marca": "36",
+    "name": "530"
+  },
+  {
+    "id_marca": "36",
+    "name": "540"
+  },
+  {
+    "id_marca": "36",
+    "name": "550"
+  },
+  {
+    "id_marca": "36",
+    "name": "740"
+  },
+  {
+    "id_marca": "36",
+    "name": "750"
+  },
+  {
+    "id_marca": "36",
+    "name": "760"
+  },
+  {
+    "id_marca": "341",
+    "name": "MATRIX 4X4"
+  },
+  {
+    "id_marca": "132",
+    "name": "A7"
+  },
+  {
+    "id_marca": "132",
+    "name": "A9"
+  },
+  {
+    "id_marca": "132",
+    "name": "A9 CARGO"
+  },
+  {
+    "id_marca": "132",
+    "name": "T20"
+  },
+  {
+    "id_marca": "132",
+    "name": "T20 BAU"
+  },
+  {
+    "id_marca": "132",
+    "name": "T22"
+  },
+  {
+    "id_marca": "64",
+    "name": "SUPER 90 COUPE"
+  },
+  {
+    "id_marca": "17",
+    "name": "X20"
+  },
+  {
+    "id_marca": "17",
+    "name": "ITAIPU"
+  },
+  {
+    "id_marca": "17",
+    "name": "G800"
+  },
+  {
+    "id_marca": "17",
+    "name": "XEF"
+  },
+  {
+    "id_marca": "17",
+    "name": "MOTOMACHINE"
+  },
+  {
+    "id_marca": "17",
+    "name": "BUGATO"
+  },
+  {
+    "id_marca": "17",
+    "name": "QT"
+  },
+  {
+    "id_marca": "57",
+    "name": "CAICARA"
+  },
+  {
+    "id_marca": "57",
+    "name": "CARCARA"
+  },
+  {
+    "id_marca": "57",
+    "name": "FISSORE"
+  },
+  {
+    "id_marca": "57",
+    "name": "MALZONI"
+  },
+  {
+    "id_marca": "57",
+    "name": "VEMAGUET"
+  },
+  {
+    "id_marca": "5",
+    "name": "C4 LOUNGE"
+  },
+  {
+    "id_marca": "108",
+    "name": "CX-7"
+  },
+  {
+    "id_marca": "147",
+    "name": "TR"
+  },
+  {
+    "id_marca": "147",
+    "name": "LUCENA"
+  },
+  {
+    "id_marca": "147",
+    "name": "SEVETSE"
+  },
+  {
+    "id_marca": "147",
+    "name": "RAGGE"
+  },
+  {
+    "id_marca": "53",
+    "name": "C70"
+  },
+  {
+    "id_marca": "53",
+    "name": "C30"
+  },
+  {
+    "id_marca": "53",
+    "name": "544"
+  },
+  {
+    "id_marca": "53",
+    "name": "S40"
+  },
+  {
+    "id_marca": "53",
+    "name": "S60"
+  },
+  {
+    "id_marca": "53",
+    "name": "S70"
+  },
+  {
+    "id_marca": "53",
+    "name": "S80"
+  },
+  {
+    "id_marca": "53",
+    "name": "V40"
+  },
+  {
+    "id_marca": "53",
+    "name": "V50"
+  },
+  {
+    "id_marca": "53",
+    "name": "V60"
+  },
+  {
+    "id_marca": "53",
+    "name": "V70"
+  },
+  {
+    "id_marca": "53",
+    "name": "S90"
+  },
+  {
+    "id_marca": "53",
+    "name": "XC60"
+  },
+  {
+    "id_marca": "53",
+    "name": "XC70"
+  },
+  {
+    "id_marca": "53",
+    "name": "XC90"
+  },
+  {
+    "id_marca": "53",
+    "name": "P1900"
+  },
+  {
+    "id_marca": "53",
+    "name": "PV36"
+  },
+  {
+    "id_marca": "53",
+    "name": "PV444"
+  },
+  {
+    "id_marca": "53",
+    "name": "PV544"
+  },
+  {
+    "id_marca": "53",
+    "name": "PV51"
+  },
+  {
+    "id_marca": "53",
+    "name": "PV654"
+  },
+  {
+    "id_marca": "53",
+    "name": "C50"
+  },
+  {
+    "id_marca": "4",
+    "name": "190"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE CLA"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE V"
+  },
+  {
+    "id_marca": "4",
+    "name": "VANEO"
+  },
+  {
+    "id_marca": "4",
+    "name": "CITAN"
+  },
+  {
+    "id_marca": "4",
+    "name": "VARIO"
+  },
+  {
+    "id_marca": "4",
+    "name": "CLASSE S CLASSICO"
+  },
+  {
+    "id_marca": "15",
+    "name": "J3S"
+  },
+  {
+    "id_marca": "345",
+    "name": "PICK-UP"
+  },
+  {
+    "id_marca": "345",
+    "name": "VAN"
+  },
+  {
+    "id_marca": "5",
+    "name": "C3 SOLARIS"
+  },
+  {
+    "id_marca": "5",
+    "name": "C3 XTR"
+  },
+  {
+    "id_marca": "5",
+    "name": "C4 SOLARIS"
+  },
+  {
+    "id_marca": "5",
+    "name": "C5 BREAK/TOURER"
+  },
+  {
+    "id_marca": "5",
+    "name": "XSARA BREAK"
+  },
+  {
+    "id_marca": "5",
+    "name": "XSARA VTS"
+  },
+  {
+    "id_marca": "5",
+    "name": "XANTIA BREAK"
+  },
+  {
+    "id_marca": "5",
+    "name": "XM BREAK"
+  },
+  {
+    "id_marca": "5",
+    "name": "C15"
+  },
+  {
+    "id_marca": "5",
+    "name": "NEMO"
+  },
+  {
+    "id_marca": "5",
+    "name": "VISA"
+  },
+  {
+    "id_marca": "5",
+    "name": "C1"
+  },
+  {
+    "id_marca": "5",
+    "name": "C2"
+  },
+  {
+    "id_marca": "5",
+    "name": "C3 PLURIEL"
+  },
+  {
+    "id_marca": "5",
+    "name": "DS4"
+  },
+  {
+    "id_marca": "5",
+    "name": "DS5"
+  },
+  {
+    "id_marca": "5",
+    "name": "JUMPY"
+  },
+  {
+    "id_marca": "5",
+    "name": "C-CROSSER"
+  },
+  {
+    "id_marca": "5",
+    "name": "C35"
+  },
+  {
+    "id_marca": "5",
+    "name": "C25"
+  },
+  {
+    "id_marca": "5",
+    "name": "CX"
+  },
+  {
+    "id_marca": "5",
+    "name": "CX BREAK"
+  },
+  {
+    "id_marca": "5",
+    "name": "AXEL"
+  },
+  {
+    "id_marca": "5",
+    "name": "DYANE"
+  },
+  {
+    "id_marca": "5",
+    "name": "GS/GSA"
+  },
+  {
+    "id_marca": "5",
+    "name": "GS/GSA BREAK"
+  },
+  {
+    "id_marca": "5",
+    "name": "MEHARI"
+  },
+  {
+    "id_marca": "5",
+    "name": "SAXO"
+  },
+  {
+    "id_marca": "5",
+    "name": "SM"
+  },
+  {
+    "id_marca": "5",
+    "name": "ELYSEE"
+  },
+  {
+    "id_marca": "24",
+    "name": "MASTER MINIBUS"
+  },
+  {
+    "id_marca": "47",
+    "name": "CELER"
+  },
+  {
+    "id_marca": "47",
+    "name": "CELER SEDAN"
+  },
+  {
+    "id_marca": "47",
+    "name": "CIELO SEDAN"
+  },
+  {
+    "id_marca": "32",
+    "name": "A1 SPORTBACK"
+  },
+  {
+    "id_marca": "32",
+    "name": "A1 QUATTRO"
+  },
+  {
+    "id_marca": "32",
+    "name": "A3 SPORTBACK"
+  },
+  {
+    "id_marca": "32",
+    "name": "RS4 AVANT"
+  },
+  {
+    "id_marca": "32",
+    "name": "A8L W12"
+  },
+  {
+    "id_marca": "32",
+    "name": "R8 V10"
+  },
+  {
+    "id_marca": "13",
+    "name": "RANGER CD"
+  },
+  {
+    "id_marca": "15",
+    "name": "T140"
+  },
+  {
+    "id_marca": "36",
+    "name": "X1"
+  },
+  {
+    "id_marca": "36",
+    "name": "X3"
+  },
+  {
+    "id_marca": "36",
+    "name": "X5"
+  },
+  {
+    "id_marca": "36",
+    "name": "X6"
+  },
+  {
+    "id_marca": "36",
+    "name": "840"
+  },
+  {
+    "id_marca": "36",
+    "name": "850"
+  },
+  {
+    "id_marca": "36",
+    "name": "645"
+  },
+  {
+    "id_marca": "36",
+    "name": "650"
+  },
+  {
+    "id_marca": "7",
+    "name": "FIT TWIST"
+  },
+  {
+    "id_marca": "346",
+    "name": "MP4"
+  },
+  {
+    "id_marca": "346",
+    "name": "F1"
+  },
+  {
+    "id_marca": "13",
+    "name": "MONDEO SW"
+  },
+  {
+    "id_marca": "13",
+    "name": "ESCORT SEDAN"
+  },
+  {
+    "id_marca": "13",
+    "name": "ESCORT CONVERSIVEL"
+  },
+  {
+    "id_marca": "108",
+    "name": "MX-6"
+  },
+  {
+    "id_marca": "1",
+    "name": "CORISCO"
+  },
+  {
+    "id_marca": "1",
+    "name": "CHEVELLE"
+  },
+  {
+    "id_marca": "13",
+    "name": "EXCURSION"
+  },
+  {
+    "id_marca": "2",
+    "name": "TOURAN"
+  },
+  {
+    "id_marca": "13",
+    "name": "F-10000"
+  },
+  {
+    "id_marca": "22",
+    "name": "HOGGAR ESCAPADE"
+  },
+  {
+    "id_marca": "13",
+    "name": "PHAETON"
+  },
+  {
+    "id_marca": "2",
+    "name": "TRANSPORTER"
+  },
+  {
+    "id_marca": "16",
+    "name": "GRAND BESTA"
+  },
+  {
+    "id_marca": "43",
+    "name": "200SX"
+  },
+  {
+    "id_marca": "43",
+    "name": "240SX"
+  },
+  {
+    "id_marca": "19",
+    "name": "300M"
+  },
+  {
+    "id_marca": "19",
+    "name": "300C TOURING"
+  },
+  {
+    "id_marca": "13",
+    "name": "TORINO"
+  },
+  {
+    "id_marca": "1",
+    "name": "VENTURE"
+  },
+  {
+    "id_marca": "1",
+    "name": "FLEETLINE"
+  },
+  {
+    "id_marca": "1",
+    "name": "FLEETMASTER"
+  },
+  {
+    "id_marca": "1",
+    "name": "DELUXE"
+  },
+  {
+    "id_marca": "13",
+    "name": "ESCORT XR3"
+  },
+  {
+    "id_marca": "1",
+    "name": "MASTER"
+  },
+  {
+    "id_marca": "120",
+    "name": "TORONADO"
+  },
+  {
+    "id_marca": "120",
+    "name": "SIX"
+  },
+  {
+    "id_marca": "120",
+    "name": "EIGHT"
+  },
+  {
+    "id_marca": "120",
+    "name": "DELUXE"
+  },
+  {
+    "id_marca": "120",
+    "name": "SERIES 60"
+  },
+  {
+    "id_marca": "120",
+    "name": "SERIES 70"
+  },
+  {
+    "id_marca": "120",
+    "name": "SERIES 80"
+  },
+  {
+    "id_marca": "120",
+    "name": "SERIES 90"
+  },
+  {
+    "id_marca": "120",
+    "name": "STARFIRE"
+  },
+  {
+    "id_marca": "120",
+    "name": "442"
+  },
+  {
+    "id_marca": "120",
+    "name": "CUTLASS"
+  },
+  {
+    "id_marca": "120",
+    "name": "CUTLASS SUPREME"
+  },
+  {
+    "id_marca": "120",
+    "name": "CUTLASS SALON"
+  },
+  {
+    "id_marca": "120",
+    "name": "CUTLASS CALAIS"
+  },
+  {
+    "id_marca": "120",
+    "name": "CUTLASS CIERA"
+  },
+  {
+    "id_marca": "120",
+    "name": "CUSTOM CRUISER"
+  },
+  {
+    "id_marca": "120",
+    "name": "VISTA CRUISER"
+  },
+  {
+    "id_marca": "120",
+    "name": "F-85"
+  },
+  {
+    "id_marca": "120",
+    "name": "FIRENZA"
+  },
+  {
+    "id_marca": "120",
+    "name": "ACHIEVA"
+  },
+  {
+    "id_marca": "120",
+    "name": "ALERO"
+  },
+  {
+    "id_marca": "120",
+    "name": "AURORA"
+  },
+  {
+    "id_marca": "120",
+    "name": "BRAVADA"
+  },
+  {
+    "id_marca": "120",
+    "name": "INTRIGUE"
+  },
+  {
+    "id_marca": "120",
+    "name": "SILHOUETTE"
+  },
+  {
+    "id_marca": "123",
+    "name": "SUPERBIRD"
+  },
+  {
+    "id_marca": "123",
+    "name": "FURY"
+  },
+  {
+    "id_marca": "123",
+    "name": "SPECIAL"
+  },
+  {
+    "id_marca": "123",
+    "name": "PROWLER"
+  },
+  {
+    "id_marca": "123",
+    "name": "TRAIL DUSTER"
+  },
+  {
+    "id_marca": "123",
+    "name": "VOYAGER"
+  },
+  {
+    "id_marca": "123",
+    "name": "SCAMP"
+  },
+  {
+    "id_marca": "123",
+    "name": "ARROW"
+  },
+  {
+    "id_marca": "123",
+    "name": "PT50"
+  },
+  {
+    "id_marca": "123",
+    "name": "PT57"
+  },
+  {
+    "id_marca": "123",
+    "name": "PT81"
+  },
+  {
+    "id_marca": "123",
+    "name": "PT105"
+  },
+  {
+    "id_marca": "123",
+    "name": "PT125"
+  },
+  {
+    "id_marca": "123",
+    "name": "EXPRESS"
+  },
+  {
+    "id_marca": "123",
+    "name": "VOYAGER EXPRESSO"
+  },
+  {
+    "id_marca": "123",
+    "name": "NEON"
+  },
+  {
+    "id_marca": "123",
+    "name": "LASER"
+  },
+  {
+    "id_marca": "123",
+    "name": "CARAVELLE"
+  },
+  {
+    "id_marca": "123",
+    "name": "STATION WAGON"
+  },
+  {
+    "id_marca": "123",
+    "name": "MODEL Q"
+  },
+  {
+    "id_marca": "123",
+    "name": "MODEL P6"
+  },
+  {
+    "id_marca": "31",
+    "name": "DB9 COUPE"
+  },
+  {
+    "id_marca": "31",
+    "name": "DB9 VOLANTE"
+  },
+  {
+    "id_marca": "31",
+    "name": "VIRAGE COUPE"
+  },
+  {
+    "id_marca": "31",
+    "name": "RAPIDE S"
+  },
+  {
+    "id_marca": "31",
+    "name": "V12 VANTAGE"
+  },
+  {
+    "id_marca": "31",
+    "name": "V8 VANTAGE COUPE"
+  },
+  {
+    "id_marca": "31",
+    "name": "V8 VANTAGE ROADSTER"
+  },
+  {
+    "id_marca": "31",
+    "name": "V8 VANTAGE S COUPE"
+  },
+  {
+    "id_marca": "31",
+    "name": "V8 VANTAGE S ROADSTER"
+  },
+  {
+    "id_marca": "31",
+    "name": "VANQUISH COUPE"
+  },
+  {
+    "id_marca": "31",
+    "name": "VANQUISH VOLANTE"
+  },
+  {
+    "id_marca": "31",
+    "name": "V12 ZAGATO"
+  },
+  {
+    "id_marca": "31",
+    "name": "DB5"
+  },
+  {
+    "id_marca": "31",
+    "name": "DBS"
+  },
+  {
+    "id_marca": "31",
+    "name": "DBS VOLANTE"
+  },
+  {
+    "id_marca": "31",
+    "name": "CYGNET"
+  },
+  {
+    "id_marca": "31",
+    "name": "ONE-77"
+  },
+  {
+    "id_marca": "31",
+    "name": "DBR9"
+  },
+  {
+    "id_marca": "36",
+    "name": "M3"
+  },
+  {
+    "id_marca": "36",
+    "name": "M5"
+  },
+  {
+    "id_marca": "36",
+    "name": "M6"
+  },
+  {
+    "id_marca": "36",
+    "name": "X6 M"
+  },
+  {
+    "id_marca": "113",
+    "name": "CABRIO"
+  },
+  {
+    "id_marca": "113",
+    "name": "COUPE"
+  },
+  {
+    "id_marca": "113",
+    "name": "ROADSTER"
+  },
+  {
+    "id_marca": "113",
+    "name": "COUNTRYMAN"
+  },
+  {
+    "id_marca": "113",
+    "name": "PACEMAN"
+  },
+  {
+    "id_marca": "113",
+    "name": "JOHN COOPER WORKS"
+  },
+  {
+    "id_marca": "122",
+    "name": "ZONDA"
+  },
+  {
+    "id_marca": "8",
+    "name": "NEW XV"
+  },
+  {
+    "id_marca": "8",
+    "name": "IMPREZA WRX HATCH"
+  },
+  {
+    "id_marca": "8",
+    "name": "IMPREZA WRX STI HATCH"
+  },
+  {
+    "id_marca": "8",
+    "name": "IMPREZA WRX STI SEDAN"
+  },
+  {
+    "id_marca": "8",
+    "name": "IMPREZA WRX SEDAN"
+  },
+  {
+    "id_marca": "23",
+    "name": "ETIOS CROSS"
+  },
+  {
+    "id_marca": "12",
+    "name": "HURACAN"
+  },
+  {
+    "id_marca": "2",
+    "name": "UP"
+  },
+  {
+    "id_marca": "195",
+    "name": "EXPLORER"
+  },
+  {
+    "id_marca": "142",
+    "name": "FORTWO CABRIO"
+  },
+  {
+    "id_marca": "26",
+    "name": "GT"
+  },
+  {
+    "id_marca": "26",
+    "name": "GTL"
+  },
+  {
+    "id_marca": "26",
+    "name": "GTM"
+  },
+  {
+    "id_marca": "26",
+    "name": "C2"
+  },
+  {
+    "id_marca": "26",
+    "name": "CRX"
+  },
+  {
+    "id_marca": "26",
+    "name": "AC 2000"
+  },
+  {
+    "id_marca": "99",
+    "name": "AVIATOR"
+  },
+  {
+    "id_marca": "99",
+    "name": "BLACKWOOD"
+  },
+  {
+    "id_marca": "99",
+    "name": "CAPRI"
+  },
+  {
+    "id_marca": "99",
+    "name": "CONTINENTAL"
+  },
+  {
+    "id_marca": "99",
+    "name": "LS"
+  },
+  {
+    "id_marca": "99",
+    "name": "MARK"
+  },
+  {
+    "id_marca": "99",
+    "name": "MARK LT"
+  },
+  {
+    "id_marca": "99",
+    "name": "MKR"
+  },
+  {
+    "id_marca": "99",
+    "name": "MKS"
+  },
+  {
+    "id_marca": "99",
+    "name": "MKX"
+  },
+  {
+    "id_marca": "99",
+    "name": "MKZ"
+  },
+  {
+    "id_marca": "99",
+    "name": "NAVIGATOR"
+  },
+  {
+    "id_marca": "99",
+    "name": "PREMIERE"
+  },
+  {
+    "id_marca": "99",
+    "name": "TOWN CAR"
+  },
+  {
+    "id_marca": "99",
+    "name": "VERSAILLES"
+  },
+  {
+    "id_marca": "99",
+    "name": "ZEPHYR"
+  },
+  {
+    "id_marca": "1",
+    "name": "CLASSIC"
+  },
+  {
+    "id_marca": "21",
+    "name": "ACTYON"
+  },
+  {
+    "id_marca": "1",
+    "name": "MARAJO"
+  },
+  {
+    "id_marca": "1",
+    "name": "SUPREMA"
+  },
+  {
+    "id_marca": "2",
+    "name": "NEW BEETLE"
+  },
+  {
+    "id_marca": "2",
+    "name": "QUANTUM"
+  },
+  {
+    "id_marca": "2",
+    "name": "CROSSFOX"
+  },
+  {
+    "id_marca": "3",
+    "name": "MILLE"
+  },
+  {
+    "id_marca": "534",
+    "name": "GC2"
+  },
+  {
+    "id_marca": "534",
+    "name": "EC7"
+  },
+  {
+    "id_marca": "98",
+    "name": "530"
+  },
+  {
+    "id_marca": "3",
+    "name": "MOBI"
+  },
+  {
+    "id_marca": "3",
+    "name": "TORO"
+  },
+  {
+    "id_marca": "87",
+    "name": "RENEGADE"
+  },
+  {
+    "id_marca": "24",
+    "name": "DUSTER OROCH"
+  },
+  {
+    "id_marca": "24",
+    "name": "SANDERO RS"
+  },
+  {
+    "id_marca": "14",
+    "name": "HB20R"
+  },
+  {
+    "id_marca": "14",
+    "name": "GRAND SANTA FE"
+  },
+  {
+    "id_marca": "2",
+    "name": "GOLF VARIANT"
+  },
+  {
+    "id_marca": "2",
+    "name": "SPACE CROSS"
+  },
+  {
+    "id_marca": "22",
+    "name": "2008"
+  },
+  {
+    "id_marca": "16",
+    "name": "QUORIS"
+  },
+  {
+    "id_marca": "16",
+    "name": "GRAND CARNIVAL"
+  },
+  {
+    "id_marca": "15",
+    "name": "T8"
+  },
+  {
+    "id_marca": "15",
+    "name": "T6"
+  },
+  {
+    "id_marca": "15",
+    "name": "T5"
+  },
+  {
+    "id_marca": "13",
+    "name": "KA SEDAN"
+  },
+  {
+    "id_marca": "13",
+    "name": "FOCUS FASTBACK"
+  }
+]
